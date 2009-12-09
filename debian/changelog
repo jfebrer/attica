@@ -1,0 +1,6 @@
+attica (0.1.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #660102)
+  * Removing link against libQtGui
+
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Wed, 09 Dec 2009 01:14:16 +0100
