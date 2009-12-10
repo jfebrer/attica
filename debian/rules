@@ -13,4 +13,4 @@
 	dh --with kde $@
 
 override_dh_makeshlibs:
-	dh_makeshlibs -V libattica0
+	dh_makeshlibs -V 'libattica0 (>=0.1.1)'
