@@ -1,5 +1,5 @@
 Source: attica
-Priority: extra
+Priority: optional
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Thibaut Gridel <tgridel@free.fr>
 Build-Depends: debhelper (>= 7.3), cmake, libqt4-dev
