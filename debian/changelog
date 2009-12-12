@@ -1,6 +1,9 @@
 attica (0.1.1-1) unstable; urgency=low
 
+  [ Thibaut Gridel ]
   * Initial release (Closes: #660102)
   * Removing link against libQtGui
+  * Generating shlibs from dh_makeshlibs
+  * Removing cmake option for kde and fixing rpath issue
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Wed, 09 Dec 2009 01:14:16 +0100
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 12 Dec 2009 21:50:25 +0100
