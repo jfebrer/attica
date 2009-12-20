@@ -1,7 +1,7 @@
 attica (0.1.1-1) unstable; urgency=low
 
   [ Thibaut Gridel ]
-  * Initial release (Closes: #660102)
+  * Initial release (Closes: #560102)
   * Removing link against libQtGui
   * Generating shlibs from dh_makeshlibs
   * Removing cmake option for kde and fixing rpath issue
