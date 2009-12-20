@@ -1,1 +1,3 @@
-usr/lib/lib*.so.*
+usr/lib/libattica.so
+usr/lib/libattica.so.0
+usr/lib/libattica.so.0.1.1

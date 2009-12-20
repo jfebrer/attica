@@ -1,3 +1,2 @@
-usr/include/*
-usr/lib/lib*.so
-usr/lib/pkgconfig/*
+usr/include/attica/*
+usr/lib/pkgconfig/libattica.pc
