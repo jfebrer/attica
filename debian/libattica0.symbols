@@ -1,85 +1,10 @@
 libattica.so.0 libattica0 #MINVER#
- _Z5qHashRK4QUrl@Base 0.1.1
- _Z6qDebugv@Base 0.1.1
- _ZN10QByteArrayD1Ev@Base 0.1.1
- _ZN11QStringListD1Ev@Base 0.1.1
- _ZN14QSharedPointerIN6Attica17PlatformDependentEED1Ev@Base 0.1.1
- _ZN15QtSharedPointer16ExternalRefCountIN6Attica17PlatformDependentEED2Ev@Base 0.1.1
- _ZN15QtSharedPointer20ExternalRefCountData7destroyEv@Base 0.1.1
- _ZN15QtSharedPointer20ExternalRefCountDataD0Ev@Base 0.1.1
- _ZN15QtSharedPointer20ExternalRefCountDataD1Ev@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica14AccountBalance7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica18KnowledgeBaseEntry7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica19DownloadDescription7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica5Event7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica6Folder7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica6Person7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica7Content7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica7Message7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica8Activity7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica8Category7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN18QSharedDataPointerIN6Attica8Metadata7PrivateEE13detach_helperEv@Base 0.1.1
- _ZN4QMapI7QStringS0_E6insertERKS0_S3_@Base 0.1.1
- _ZN4QMapI7QStringS0_E8freeDataEP8QMapData@Base 0.1.1
- _ZN4QMapI7QStringS0_ED1Ev@Base 0.1.1
- _ZN5QHashI4QUrl5QListI7QStringEE13duplicateNodeEPN9QHashData4NodeEPv@Base 0.1.1
- _ZN5QHashI4QUrl5QListI7QStringEE8freeDataEP9QHashData@Base 0.1.1
- _ZN5QHashI4QUrl5QListI7QStringEED1Ev@Base 0.1.1
- _ZN5QHashI4QUrlN6Attica8ProviderEE13detach_helperEv@Base 0.1.1
- _ZN5QHashI4QUrlN6Attica8ProviderEE13duplicateNodeEPN9QHashData4NodeEPv@Base 0.1.1
- _ZN5QHashI4QUrlN6Attica8ProviderEE8freeDataEP9QHashData@Base 0.1.1
- _ZN5QHashI4QUrlN6Attica8ProviderEED1Ev@Base 0.1.1
- _ZN5QHashI7QStringP13QNetworkReplyE13duplicateNodeEPN9QHashData4NodeEPv@Base 0.1.1
- _ZN5QHashI7QStringP13QNetworkReplyE6detachEv@Base 0.1.1
- _ZN5QHashI7QStringP13QNetworkReplyE8freeDataEP9QHashData@Base 0.1.1
- _ZN5QListI4QUrlE13detach_helperEv@Base 0.1.1
- _ZN5QListI4QUrlE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListI4QUrlE6appendERKS0_@Base 0.1.1
- _ZN5QListI4QUrlED1Ev@Base 0.1.1
- _ZN5QListI7QStringE13detach_helperEv@Base 0.1.1
- _ZN5QListI7QStringE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListI7QStringE6appendERKS0_@Base 0.1.1
- _ZN5QListIN6Attica12DownloadItemEE13detach_helperEv@Base 0.1.1
- _ZN5QListIN6Attica12DownloadItemEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica12DownloadItemEED1Ev@Base 0.1.1
- _ZN5QListIN6Attica14AccountBalanceEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica14AccountBalanceEE6appendERKS1_@Base 0.1.1
- _ZN5QListIN6Attica18KnowledgeBaseEntryEE13detach_helperEv@Base 0.1.1
- _ZN5QListIN6Attica18KnowledgeBaseEntryEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica18KnowledgeBaseEntryEED1Ev@Base 0.1.1
- _ZN5QListIN6Attica5EventEE13detach_helperEv@Base 0.1.1
- _ZN5QListIN6Attica5EventEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica5EventEED1Ev@Base 0.1.1
- _ZN5QListIN6Attica6FolderEE13detach_helperEv@Base 0.1.1
- _ZN5QListIN6Attica6FolderEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica6FolderEED1Ev@Base 0.1.1
- _ZN5QListIN6Attica6PersonEE13detach_helperEv@Base 0.1.1
- _ZN5QListIN6Attica6PersonEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica6PersonEED1Ev@Base 0.1.1
- _ZN5QListIN6Attica7ContentEE13detach_helperEv@Base 0.1.1
- _ZN5QListIN6Attica7ContentEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica7ContentEED1Ev@Base 0.1.1
- _ZN5QListIN6Attica7MessageEE13detach_helperEv@Base 0.1.1
- _ZN5QListIN6Attica7MessageEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica7MessageEED1Ev@Base 0.1.1
- _ZN5QListIN6Attica8ActivityEE13detach_helperEv@Base 0.1.1
- _ZN5QListIN6Attica8ActivityEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica8ActivityEED1Ev@Base 0.1.1
- _ZN5QListIN6Attica8CategoryEE13detach_helperEv@Base 0.1.1
- _ZN5QListIN6Attica8CategoryEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica8CategoryEED1Ev@Base 0.1.1
- _ZN5QListIN6Attica8ProviderEE4freeEPN9QListData4DataE@Base 0.1.1
- _ZN5QListIN6Attica8ProviderEE6appendERKS1_@Base 0.1.1
  _ZN6Attica11ItemPostJobINS_7ContentEE5parseERK7QString@Base 0.1.1
  _ZN6Attica11ItemPostJobINS_7ContentEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequestP9QIODevice@Base 0.1.1
  _ZN6Attica11ItemPostJobINS_7ContentEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequestRK4QMapI7QStringSC_E@Base 0.1.1
  _ZN6Attica11ItemPostJobINS_7ContentEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequestP9QIODevice@Base 0.1.1
  _ZN6Attica11ItemPostJobINS_7ContentEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequestRK4QMapI7QStringSC_E@Base 0.1.1
- _ZN6Attica11ItemPostJobINS_7ContentEED0Ev@Base 0.1.1
- _ZN6Attica11ItemPostJobINS_7ContentEED1Ev@Base 0.1.1
  _ZN6Attica12DownloadItem6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica12DownloadItem6ParserD0Ev@Base 0.1.1
- _ZN6Attica12DownloadItem6ParserD1Ev@Base 0.1.1
  _ZN6Attica12DownloadItem6setUrlERK4QUrl@Base 0.1.1
  _ZN6Attica12DownloadItemC1ERKS0_@Base 0.1.1
  _ZN6Attica12DownloadItemC1Ev@Base 0.1.1
@@ -88,21 +13,9 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica12DownloadItemD1Ev@Base 0.1.1
  _ZN6Attica12DownloadItemD2Ev@Base 0.1.1
  _ZN6Attica12DownloadItemaSERKS0_@Base 0.1.1
- _ZN6Attica12PostFileData11addArgumentERK7QStringS3_@Base 0.1.1
- _ZN6Attica12PostFileData12randomStringEi@Base 0.1.1
- _ZN6Attica12PostFileData4dataEv@Base 0.1.1
- _ZN6Attica12PostFileData6finishEv@Base 0.1.1
- _ZN6Attica12PostFileData7addFileERK7QStringRK10QByteArrayS3_@Base 0.1.1
- _ZN6Attica12PostFileData7requestEv@Base 0.1.1
- _ZN6Attica12PostFileDataC1ERK4QUrl@Base 0.1.1
- _ZN6Attica12PostFileDataC2ERK4QUrl@Base 0.1.1
- _ZN6Attica12PostFileDataD1Ev@Base 0.1.1
- _ZN6Attica12PostFileDataD2Ev@Base 0.1.1
  _ZN6Attica14AccountBalance10setBalanceERK7QString@Base 0.1.1
  _ZN6Attica14AccountBalance11setCurrencyERK7QString@Base 0.1.1
  _ZN6Attica14AccountBalance6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica14AccountBalance6ParserD0Ev@Base 0.1.1
- _ZN6Attica14AccountBalance6ParserD1Ev@Base 0.1.1
  _ZN6Attica14AccountBalanceC1ERKS0_@Base 0.1.1
  _ZN6Attica14AccountBalanceC1Ev@Base 0.1.1
  _ZN6Attica14AccountBalanceC2ERKS0_@Base 0.1.1
@@ -133,8 +46,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica15ProviderManagerD0Ev@Base 0.1.1
  _ZN6Attica15ProviderManagerD1Ev@Base 0.1.1
  _ZN6Attica15ProviderManagerD2Ev@Base 0.1.1
- _ZN6Attica17PlatformDependentD0Ev@Base 0.1.1
- _ZN6Attica17PlatformDependentD1Ev@Base 0.1.1
  _ZN6Attica18KnowledgeBaseEntry10setChangedERK9QDateTime@Base 0.1.1
  _ZN6Attica18KnowledgeBaseEntry11setCommentsEi@Base 0.1.1
  _ZN6Attica18KnowledgeBaseEntry12setContentIdEi@Base 0.1.1
@@ -143,8 +54,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica18KnowledgeBaseEntry20addExtendedAttributeERK7QStringS3_@Base 0.1.1
  _ZN6Attica18KnowledgeBaseEntry5setIdE7QString@Base 0.1.1
  _ZN6Attica18KnowledgeBaseEntry6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica18KnowledgeBaseEntry6ParserD0Ev@Base 0.1.1
- _ZN6Attica18KnowledgeBaseEntry6ParserD1Ev@Base 0.1.1
  _ZN6Attica18KnowledgeBaseEntry7setNameERK7QString@Base 0.1.1
  _ZN6Attica18KnowledgeBaseEntry7setUserERK7QString@Base 0.1.1
  _ZN6Attica18KnowledgeBaseEntry9setAnswerERK7QString@Base 0.1.1
@@ -179,15 +88,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica19DownloadDescriptionD1Ev@Base 0.1.1
  _ZN6Attica19DownloadDescriptionD2Ev@Base 0.1.1
  _ZN6Attica19DownloadDescriptionaSERKS0_@Base 0.1.1
- _ZN6Attica19QtPlatformDependent15loadCredentialsERK4QUrlR7QStringS5_@Base 0.1.1
- _ZN6Attica19QtPlatformDependent15saveCredentialsERK4QUrlRK7QStringS6_@Base 0.1.1
- _ZN6Attica19QtPlatformDependent17askForCredentialsERK4QUrlR7QStringS5_@Base 0.1.1
- _ZN6Attica19QtPlatformDependent3getERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica19QtPlatformDependent3namEv@Base 0.1.1
- _ZN6Attica19QtPlatformDependent4postERK15QNetworkRequestP9QIODevice@Base 0.1.1
- _ZN6Attica19QtPlatformDependent4postERK15QNetworkRequestRK10QByteArray@Base 0.1.1
- _ZN6Attica19QtPlatformDependentD0Ev@Base 0.1.1
- _ZN6Attica19QtPlatformDependentD1Ev@Base 0.1.1
  _ZN6Attica5Event10setCountryERK7QString@Base 0.1.1
  _ZN6Attica5Event10setEndDateERK5QDate@Base 0.1.1
  _ZN6Attica5Event11setHomepageERK4QUrl@Base 0.1.1
@@ -198,8 +98,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica5Event20addExtendedAttributeERK7QStringS3_@Base 0.1.1
  _ZN6Attica5Event5setIdERK7QString@Base 0.1.1
  _ZN6Attica5Event6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica5Event6ParserD0Ev@Base 0.1.1
- _ZN6Attica5Event6ParserD1Ev@Base 0.1.1
  _ZN6Attica5Event7setCityERK7QString@Base 0.1.1
  _ZN6Attica5Event7setNameERK7QString@Base 0.1.1
  _ZN6Attica5Event7setUserERK7QString@Base 0.1.1
@@ -213,8 +111,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica6Folder15setMessageCountEi@Base 0.1.1
  _ZN6Attica6Folder5setIdERK7QString@Base 0.1.1
  _ZN6Attica6Folder6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6Folder6ParserD0Ev@Base 0.1.1
- _ZN6Attica6Folder6ParserD1Ev@Base 0.1.1
  _ZN6Attica6Folder7setNameERK7QString@Base 0.1.1
  _ZN6Attica6Folder7setTypeERK7QString@Base 0.1.1
  _ZN6Attica6FolderC1ERKS0_@Base 0.1.1
@@ -230,69 +126,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica6GetJob16staticMetaObjectE@Base 0.1.1
  _ZN6Attica6GetJobC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica6GetJobC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica6GetJobD0Ev@Base 0.1.1
- _ZN6Attica6GetJobD1Ev@Base 0.1.1
- _ZN6Attica6GetJobD2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_12DownloadItemEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_12DownloadItemEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_12DownloadItemEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_12DownloadItemEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_12DownloadItemEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_12DownloadItemEED2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_14AccountBalanceEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_14AccountBalanceEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_14AccountBalanceEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_14AccountBalanceEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_14AccountBalanceEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_14AccountBalanceEED2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_18KnowledgeBaseEntryEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_18KnowledgeBaseEntryEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_18KnowledgeBaseEntryEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_18KnowledgeBaseEntryEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_18KnowledgeBaseEntryEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_18KnowledgeBaseEntryEED2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_5EventEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_5EventEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_5EventEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_5EventEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_5EventEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_5EventEED2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_6FolderEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_6FolderEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_6FolderEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_6FolderEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_6FolderEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_6FolderEED2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_6PersonEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_6PersonEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_6PersonEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_6PersonEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_6PersonEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_6PersonEED2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_7ContentEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_7ContentEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_7ContentEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_7ContentEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_7ContentEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_7ContentEED2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_7MessageEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_7MessageEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_7MessageEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_7MessageEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_7MessageEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_7MessageEED2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_8ActivityEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_8ActivityEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_8ActivityEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_8ActivityEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_8ActivityEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_8ActivityEED2Ev@Base 0.1.1
- _ZN6Attica6ParserINS_8CategoryEE16parseMetadataXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6ParserINS_8CategoryEE5parseERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_8CategoryEE9parseListERK7QString@Base 0.1.1
- _ZN6Attica6ParserINS_8CategoryEED0Ev@Base 0.1.1
- _ZN6Attica6ParserINS_8CategoryEED1Ev@Base 0.1.1
- _ZN6Attica6ParserINS_8CategoryEED2Ev@Base 0.1.1
  _ZN6Attica6Person10setCountryERK7QString@Base 0.1.1
  _ZN6Attica6Person11setBirthdayERK5QDate@Base 0.1.1
  _ZN6Attica6Person11setHomepageERK7QString@Base 0.1.1
@@ -304,8 +137,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica6Person20addExtendedAttributeERK7QStringS3_@Base 0.1.1
  _ZN6Attica6Person5setIdERK7QString@Base 0.1.1
  _ZN6Attica6Person6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica6Person6ParserD0Ev@Base 0.1.1
- _ZN6Attica6Person6ParserD1Ev@Base 0.1.1
  _ZN6Attica6Person7setCityERK7QString@Base 0.1.1
  _ZN6Attica6PersonC1ERKS0_@Base 0.1.1
  _ZN6Attica6PersonC1Ev@Base 0.1.1
@@ -334,8 +165,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica7Content12setDownloadsEi@Base 0.1.1
  _ZN6Attica7Content5setIdERK7QString@Base 0.1.1
  _ZN6Attica7Content6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica7Content6ParserD0Ev@Base 0.1.1
- _ZN6Attica7Content6ParserD1Ev@Base 0.1.1
  _ZN6Attica7Content7setNameERK7QString@Base 0.1.1
  _ZN6Attica7Content9setRatingEi@Base 0.1.1
  _ZN6Attica7ContentC1ERKS0_@Base 0.1.1
@@ -348,89 +177,55 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica7ItemJobINS_12DownloadItemEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ItemJobINS_12DownloadItemEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ItemJobINS_12DownloadItemEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ItemJobINS_12DownloadItemEED0Ev@Base 0.1.1
- _ZN6Attica7ItemJobINS_12DownloadItemEED1Ev@Base 0.1.1
  _ZN6Attica7ItemJobINS_14AccountBalanceEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ItemJobINS_14AccountBalanceEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ItemJobINS_14AccountBalanceEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ItemJobINS_14AccountBalanceEED0Ev@Base 0.1.1
- _ZN6Attica7ItemJobINS_14AccountBalanceEED1Ev@Base 0.1.1
  _ZN6Attica7ItemJobINS_18KnowledgeBaseEntryEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ItemJobINS_18KnowledgeBaseEntryEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ItemJobINS_18KnowledgeBaseEntryEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ItemJobINS_18KnowledgeBaseEntryEED0Ev@Base 0.1.1
- _ZN6Attica7ItemJobINS_18KnowledgeBaseEntryEED1Ev@Base 0.1.1
  _ZN6Attica7ItemJobINS_5EventEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ItemJobINS_5EventEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ItemJobINS_5EventEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ItemJobINS_5EventEED0Ev@Base 0.1.1
- _ZN6Attica7ItemJobINS_5EventEED1Ev@Base 0.1.1
  _ZN6Attica7ItemJobINS_6PersonEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ItemJobINS_6PersonEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ItemJobINS_6PersonEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ItemJobINS_6PersonEED0Ev@Base 0.1.1
- _ZN6Attica7ItemJobINS_6PersonEED1Ev@Base 0.1.1
  _ZN6Attica7ItemJobINS_7ContentEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ItemJobINS_7ContentEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ItemJobINS_7ContentEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ItemJobINS_7ContentEED0Ev@Base 0.1.1
- _ZN6Attica7ItemJobINS_7ContentEED1Ev@Base 0.1.1
  _ZN6Attica7ItemJobINS_7MessageEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ItemJobINS_7MessageEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ItemJobINS_7MessageEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ItemJobINS_7MessageEED0Ev@Base 0.1.1
- _ZN6Attica7ItemJobINS_7MessageEED1Ev@Base 0.1.1
  _ZN6Attica7ListJobINS_12DownloadItemEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ListJobINS_12DownloadItemEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ListJobINS_12DownloadItemEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ListJobINS_12DownloadItemEED0Ev@Base 0.1.1
- _ZN6Attica7ListJobINS_12DownloadItemEED1Ev@Base 0.1.1
  _ZN6Attica7ListJobINS_18KnowledgeBaseEntryEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ListJobINS_18KnowledgeBaseEntryEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ListJobINS_18KnowledgeBaseEntryEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ListJobINS_18KnowledgeBaseEntryEED0Ev@Base 0.1.1
- _ZN6Attica7ListJobINS_18KnowledgeBaseEntryEED1Ev@Base 0.1.1
  _ZN6Attica7ListJobINS_5EventEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ListJobINS_5EventEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ListJobINS_5EventEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ListJobINS_5EventEED0Ev@Base 0.1.1
- _ZN6Attica7ListJobINS_5EventEED1Ev@Base 0.1.1
  _ZN6Attica7ListJobINS_6FolderEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ListJobINS_6FolderEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ListJobINS_6FolderEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ListJobINS_6FolderEED0Ev@Base 0.1.1
- _ZN6Attica7ListJobINS_6FolderEED1Ev@Base 0.1.1
  _ZN6Attica7ListJobINS_6PersonEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ListJobINS_6PersonEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ListJobINS_6PersonEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ListJobINS_6PersonEED0Ev@Base 0.1.1
- _ZN6Attica7ListJobINS_6PersonEED1Ev@Base 0.1.1
  _ZN6Attica7ListJobINS_7ContentEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ListJobINS_7ContentEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ListJobINS_7ContentEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ListJobINS_7ContentEED0Ev@Base 0.1.1
- _ZN6Attica7ListJobINS_7ContentEED1Ev@Base 0.1.1
  _ZN6Attica7ListJobINS_7MessageEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ListJobINS_7MessageEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ListJobINS_7MessageEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ListJobINS_7MessageEED0Ev@Base 0.1.1
- _ZN6Attica7ListJobINS_7MessageEED1Ev@Base 0.1.1
  _ZN6Attica7ListJobINS_8ActivityEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ListJobINS_8ActivityEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ListJobINS_8ActivityEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ListJobINS_8ActivityEED0Ev@Base 0.1.1
- _ZN6Attica7ListJobINS_8ActivityEED1Ev@Base 0.1.1
  _ZN6Attica7ListJobINS_8CategoryEE5parseERK7QString@Base 0.1.1
  _ZN6Attica7ListJobINS_8CategoryEEC1ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
  _ZN6Attica7ListJobINS_8CategoryEEC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequest@Base 0.1.1
- _ZN6Attica7ListJobINS_8CategoryEED0Ev@Base 0.1.1
- _ZN6Attica7ListJobINS_8CategoryEED1Ev@Base 0.1.1
  _ZN6Attica7Message10setSubjectERK7QString@Base 0.1.1
  _ZN6Attica7Message5setIdERK7QString@Base 0.1.1
  _ZN6Attica7Message5setToERK7QString@Base 0.1.1
  _ZN6Attica7Message6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica7Message6ParserD0Ev@Base 0.1.1
- _ZN6Attica7Message6ParserD1Ev@Base 0.1.1
  _ZN6Attica7Message7setBodyERK7QString@Base 0.1.1
  _ZN6Attica7Message7setFromERK7QString@Base 0.1.1
  _ZN6Attica7Message7setSentERK9QDateTime@Base 0.1.1
@@ -453,16 +248,11 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica7PostJobC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequestP9QIODevice@Base 0.1.1
  _ZN6Attica7PostJobC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequestRK10QByteArray@Base 0.1.1
  _ZN6Attica7PostJobC2ERK14QSharedPointerINS_17PlatformDependentEERK15QNetworkRequestRK4QMapI7QStringSA_E@Base 0.1.1
- _ZN6Attica7PostJobD0Ev@Base 0.1.1
- _ZN6Attica7PostJobD1Ev@Base 0.1.1
- _ZN6Attica7PostJobD2Ev@Base 0.1.1
  _ZN6Attica8Activity10setMessageERK7QString@Base 0.1.1
  _ZN6Attica8Activity12setTimestampERK9QDateTime@Base 0.1.1
  _ZN6Attica8Activity19setAssociatedPersonERKNS_6PersonE@Base 0.1.1
  _ZN6Attica8Activity5setIdERK7QString@Base 0.1.1
  _ZN6Attica8Activity6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica8Activity6ParserD0Ev@Base 0.1.1
- _ZN6Attica8Activity6ParserD1Ev@Base 0.1.1
  _ZN6Attica8Activity7setLinkERK4QUrl@Base 0.1.1
  _ZN6Attica8ActivityC1ERKS0_@Base 0.1.1
  _ZN6Attica8ActivityC1Ev@Base 0.1.1
@@ -473,8 +263,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica8ActivityaSERKS0_@Base 0.1.1
  _ZN6Attica8Category5setIdERK7QString@Base 0.1.1
  _ZN6Attica8Category6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
- _ZN6Attica8Category6ParserD0Ev@Base 0.1.1
- _ZN6Attica8Category6ParserD1Ev@Base 0.1.1
  _ZN6Attica8Category7setNameERK7QString@Base 0.1.1
  _ZN6Attica8CategoryC1ERKS0_@Base 0.1.1
  _ZN6Attica8CategoryC1Ev@Base 0.1.1
@@ -548,7 +336,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica8Provider25requestPersonSearchByNameERK7QString@Base 0.1.1
  _ZN6Attica8Provider26requestReceivedInvitationsEii@Base 0.1.1
  _ZN6Attica8Provider29requestPersonSearchByLocationEdddii@Base 0.1.1
- _ZN6Attica8Provider7PrivateC1ERK14QSharedPointerINS_17PlatformDependentEERK4QUrlRK7QStringS9_@Base 0.1.1
  _ZN6Attica8Provider9becomeFanERK7QString@Base 0.1.1
  _ZN6Attica8Provider9createUrlERK7QString@Base 0.1.1
  _ZN6Attica8ProviderC1ERK14QSharedPointerINS_17PlatformDependentEERK4QUrlRK7QStringS8_@Base 0.1.1
@@ -560,12 +347,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica8ProviderD1Ev@Base 0.1.1
  _ZN6Attica8ProviderD2Ev@Base 0.1.1
  _ZN6Attica8ProvideraSERKS0_@Base 0.1.1
- _ZN6QDebugD1Ev@Base 0.1.1
- _ZN6QDebuglsEPKc@Base 0.1.1
- _ZN7QStringC1ERKS_@Base 0.1.1
- _ZN7QStringD1Ev@Base 0.1.1
- _ZNK5QHashI4QUrlN6Attica8ProviderEE8findNodeERKS0_Pj@Base 0.1.1
- _ZNK5QHashI7QStringP13QNetworkReplyE8findNodeERKS0_Pj@Base 0.1.1
  _ZNK6Attica11ItemPostJobINS_7ContentEE6resultEv@Base 0.1.1
  _ZNK6Attica12DownloadItem3urlEv@Base 0.1.1
  _ZNK6Attica12DownloadItem6Parser10xmlElementEv@Base 0.1.1
@@ -591,8 +372,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZNK6Attica18KnowledgeBaseEntry7isValidEv@Base 0.1.1
  _ZNK6Attica18KnowledgeBaseEntry8commentsEv@Base 0.1.1
  _ZNK6Attica18KnowledgeBaseEntry9contentIdEv@Base 0.1.1
- _ZNK6Attica19QtPlatformDependent14hasCredentialsERK4QUrl@Base 0.1.1
- _ZNK6Attica19QtPlatformDependent23getDefaultProviderFilesEv@Base 0.1.1
  _ZNK6Attica5Event11descriptionEv@Base 0.1.1
  _ZNK6Attica5Event17extendedAttributeERK7QString@Base 0.1.1
  _ZNK6Attica5Event18extendedAttributesEv@Base 0.1.1
@@ -615,16 +394,6 @@ libattica.so.0 libattica0 #MINVER#
  _ZNK6Attica6Folder6Parser10xmlElementEv@Base 0.1.1
  _ZNK6Attica6Folder7isValidEv@Base 0.1.1
  _ZNK6Attica6GetJob10metaObjectEv@Base 0.1.1
- _ZNK6Attica6ParserINS_12DownloadItemEE8metadataEv@Base 0.1.1
- _ZNK6Attica6ParserINS_14AccountBalanceEE8metadataEv@Base 0.1.1
- _ZNK6Attica6ParserINS_18KnowledgeBaseEntryEE8metadataEv@Base 0.1.1
- _ZNK6Attica6ParserINS_5EventEE8metadataEv@Base 0.1.1
- _ZNK6Attica6ParserINS_6FolderEE8metadataEv@Base 0.1.1
- _ZNK6Attica6ParserINS_6PersonEE8metadataEv@Base 0.1.1
- _ZNK6Attica6ParserINS_7ContentEE8metadataEv@Base 0.1.1
- _ZNK6Attica6ParserINS_7MessageEE8metadataEv@Base 0.1.1
- _ZNK6Attica6ParserINS_8ActivityEE8metadataEv@Base 0.1.1
- _ZNK6Attica6ParserINS_8CategoryEE8metadataEv@Base 0.1.1
  _ZNK6Attica6Person17extendedAttributeERK7QString@Base 0.1.1
  _ZNK6Attica6Person18extendedAttributesEv@Base 0.1.1
  _ZNK6Attica6Person2idEv@Base 0.1.1
@@ -705,27 +474,14 @@ libattica.so.0 libattica0 #MINVER#
  _ZNK6Attica8Provider4nameEv@Base 0.1.1
  _ZNK6Attica8Provider7baseUrlEv@Base 0.1.1
  _ZNK6Attica8Provider7isValidEv@Base 0.1.1
- _ZTIN15QtSharedPointer20ExternalRefCountDataE@Base 0.1.1
  _ZTIN6Attica11ItemPostJobINS_7ContentEEE@Base 0.1.1
  _ZTIN6Attica12DownloadItem6ParserE@Base 0.1.1
  _ZTIN6Attica14AccountBalance6ParserE@Base 0.1.1
  _ZTIN6Attica15ProviderManagerE@Base 0.1.1
- _ZTIN6Attica17PlatformDependentE@Base 0.1.1
  _ZTIN6Attica18KnowledgeBaseEntry6ParserE@Base 0.1.1
- _ZTIN6Attica19QtPlatformDependentE@Base 0.1.1
  _ZTIN6Attica5Event6ParserE@Base 0.1.1
  _ZTIN6Attica6Folder6ParserE@Base 0.1.1
  _ZTIN6Attica6GetJobE@Base 0.1.1
- _ZTIN6Attica6ParserINS_12DownloadItemEEE@Base 0.1.1
- _ZTIN6Attica6ParserINS_14AccountBalanceEEE@Base 0.1.1
- _ZTIN6Attica6ParserINS_18KnowledgeBaseEntryEEE@Base 0.1.1
- _ZTIN6Attica6ParserINS_5EventEEE@Base 0.1.1
- _ZTIN6Attica6ParserINS_6FolderEEE@Base 0.1.1
- _ZTIN6Attica6ParserINS_6PersonEEE@Base 0.1.1
- _ZTIN6Attica6ParserINS_7ContentEEE@Base 0.1.1
- _ZTIN6Attica6ParserINS_7MessageEEE@Base 0.1.1
- _ZTIN6Attica6ParserINS_8ActivityEEE@Base 0.1.1
- _ZTIN6Attica6ParserINS_8CategoryEEE@Base 0.1.1
  _ZTIN6Attica6Person6ParserE@Base 0.1.1
  _ZTIN6Attica7BaseJobE@Base 0.1.1
  _ZTIN6Attica7Content6ParserE@Base 0.1.1
@@ -749,27 +505,14 @@ libattica.so.0 libattica0 #MINVER#
  _ZTIN6Attica7PostJobE@Base 0.1.1
  _ZTIN6Attica8Activity6ParserE@Base 0.1.1
  _ZTIN6Attica8Category6ParserE@Base 0.1.1
- _ZTSN15QtSharedPointer20ExternalRefCountDataE@Base 0.1.1
  _ZTSN6Attica11ItemPostJobINS_7ContentEEE@Base 0.1.1
  _ZTSN6Attica12DownloadItem6ParserE@Base 0.1.1
  _ZTSN6Attica14AccountBalance6ParserE@Base 0.1.1
  _ZTSN6Attica15ProviderManagerE@Base 0.1.1
- _ZTSN6Attica17PlatformDependentE@Base 0.1.1
  _ZTSN6Attica18KnowledgeBaseEntry6ParserE@Base 0.1.1
- _ZTSN6Attica19QtPlatformDependentE@Base 0.1.1
  _ZTSN6Attica5Event6ParserE@Base 0.1.1
  _ZTSN6Attica6Folder6ParserE@Base 0.1.1
  _ZTSN6Attica6GetJobE@Base 0.1.1
- _ZTSN6Attica6ParserINS_12DownloadItemEEE@Base 0.1.1
- _ZTSN6Attica6ParserINS_14AccountBalanceEEE@Base 0.1.1
- _ZTSN6Attica6ParserINS_18KnowledgeBaseEntryEEE@Base 0.1.1
- _ZTSN6Attica6ParserINS_5EventEEE@Base 0.1.1
- _ZTSN6Attica6ParserINS_6FolderEEE@Base 0.1.1
- _ZTSN6Attica6ParserINS_6PersonEEE@Base 0.1.1
- _ZTSN6Attica6ParserINS_7ContentEEE@Base 0.1.1
- _ZTSN6Attica6ParserINS_7MessageEEE@Base 0.1.1
- _ZTSN6Attica6ParserINS_8ActivityEEE@Base 0.1.1
- _ZTSN6Attica6ParserINS_8CategoryEEE@Base 0.1.1
  _ZTSN6Attica6Person6ParserE@Base 0.1.1
  _ZTSN6Attica7BaseJobE@Base 0.1.1
  _ZTSN6Attica7Content6ParserE@Base 0.1.1
@@ -793,27 +536,14 @@ libattica.so.0 libattica0 #MINVER#
  _ZTSN6Attica7PostJobE@Base 0.1.1
  _ZTSN6Attica8Activity6ParserE@Base 0.1.1
  _ZTSN6Attica8Category6ParserE@Base 0.1.1
- _ZTVN15QtSharedPointer20ExternalRefCountDataE@Base 0.1.1
  _ZTVN6Attica11ItemPostJobINS_7ContentEEE@Base 0.1.1
  _ZTVN6Attica12DownloadItem6ParserE@Base 0.1.1
  _ZTVN6Attica14AccountBalance6ParserE@Base 0.1.1
  _ZTVN6Attica15ProviderManagerE@Base 0.1.1
- _ZTVN6Attica17PlatformDependentE@Base 0.1.1
  _ZTVN6Attica18KnowledgeBaseEntry6ParserE@Base 0.1.1
- _ZTVN6Attica19QtPlatformDependentE@Base 0.1.1
  _ZTVN6Attica5Event6ParserE@Base 0.1.1
  _ZTVN6Attica6Folder6ParserE@Base 0.1.1
  _ZTVN6Attica6GetJobE@Base 0.1.1
- _ZTVN6Attica6ParserINS_12DownloadItemEEE@Base 0.1.1
- _ZTVN6Attica6ParserINS_14AccountBalanceEEE@Base 0.1.1
- _ZTVN6Attica6ParserINS_18KnowledgeBaseEntryEEE@Base 0.1.1
- _ZTVN6Attica6ParserINS_5EventEEE@Base 0.1.1
- _ZTVN6Attica6ParserINS_6FolderEEE@Base 0.1.1
- _ZTVN6Attica6ParserINS_6PersonEEE@Base 0.1.1
- _ZTVN6Attica6ParserINS_7ContentEEE@Base 0.1.1
- _ZTVN6Attica6ParserINS_7MessageEEE@Base 0.1.1
- _ZTVN6Attica6ParserINS_8ActivityEEE@Base 0.1.1
- _ZTVN6Attica6ParserINS_8CategoryEEE@Base 0.1.1
  _ZTVN6Attica6Person6ParserE@Base 0.1.1
  _ZTVN6Attica7BaseJobE@Base 0.1.1
  _ZTVN6Attica7Content6ParserE@Base 0.1.1
@@ -837,5 +567,3 @@ libattica.so.0 libattica0 #MINVER#
  _ZTVN6Attica7PostJobE@Base 0.1.1
  _ZTVN6Attica8Activity6ParserE@Base 0.1.1
  _ZTVN6Attica8Category6ParserE@Base 0.1.1
- _ZeqRK10QStringRefPKc@Base 0.1.1
- _ZlsI7QStringS0_E6QDebugS1_RK4QMapIT_T0_E@Base 0.1.1

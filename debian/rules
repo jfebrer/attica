@@ -1,6 +1,8 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
+export CXXFLAGS+=-fvisibility=hidden -fvisibility-inlines-hidden
+
 %:
 	dh $@
 
