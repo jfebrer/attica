@@ -5,6 +5,7 @@ attica (0.1.1-2) unstable; urgency=low
   * Fixing symbols for qreal.
   * Fixing Vcs-Browser field.
   * Fixing dh_strip.
+  * Cleaning generated symbols file.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sun, 03 Jan 2010 23:21:24 +0100
 
