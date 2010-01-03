@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7.3), cmake, libqt4-dev, pkg-kde-tools
 Standards-Version: 3.8.3
 Section: libs
 Homepage: http://www.kde.org
-Vcs-Browser: http://svn.debian.org/wsvn/pkg-kde/krap/attica
+Vcs-Browser: http://svn.debian.org/wsvn/pkg-kde/krap/attica/
 Vcs-Svn: svn://svn.debian.org/pkg-kde/krap/attica
 
 Package: libattica-dev
