@@ -91,8 +91,8 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica5Event10setCountryERK7QString@Base 0.1.1
  _ZN6Attica5Event10setEndDateERK5QDate@Base 0.1.1
  _ZN6Attica5Event11setHomepageERK4QUrl@Base 0.1.1
- _ZN6Attica5Event11setLatitudeEd@Base 0.1.1
- _ZN6Attica5Event12setLongitudeEd@Base 0.1.1
+ _ZN6Attica5Event11setLatitudeE{qreal}@Base 0.1.1
+ _ZN6Attica5Event12setLongitudeE{qreal}@Base 0.1.1
  _ZN6Attica5Event12setStartDateERK5QDate@Base 0.1.1
  _ZN6Attica5Event14setDescriptionERK7QString@Base 0.1.1
  _ZN6Attica5Event20addExtendedAttributeERK7QStringS3_@Base 0.1.1
@@ -130,10 +130,10 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica6Person11setBirthdayERK5QDate@Base 0.1.1
  _ZN6Attica6Person11setHomepageERK7QString@Base 0.1.1
  _ZN6Attica6Person11setLastNameERK7QString@Base 0.1.1
- _ZN6Attica6Person11setLatitudeEd@Base 0.1.1
+ _ZN6Attica6Person11setLatitudeE{qreal}@Base 0.1.1
  _ZN6Attica6Person12setAvatarUrlERK4QUrl@Base 0.1.1
  _ZN6Attica6Person12setFirstNameERK7QString@Base 0.1.1
- _ZN6Attica6Person12setLongitudeEd@Base 0.1.1
+ _ZN6Attica6Person12setLongitudeE{qreal}@Base 0.1.1
  _ZN6Attica6Person20addExtendedAttributeERK7QStringS3_@Base 0.1.1
  _ZN6Attica6Person5setIdERK7QString@Base 0.1.1
  _ZN6Attica6Person6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
@@ -293,7 +293,7 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica8Provider12downloadLinkERK7QStringS3_@Base 0.1.1
  _ZN6Attica8Provider12inviteFriendERK7QStringS3_@Base 0.1.1
  _ZN6Attica8Provider12postActivityERK7QString@Base 0.1.1
- _ZN6Attica8Provider12postLocationEddRK7QStringS3_@Base 0.1.1
+ _ZN6Attica8Provider12postLocationE{qreal}{qreal}RK7QStringS3_@Base 0.1.1
  _ZN6Attica8Provider12requestEventERK7QString@Base 0.1.1
  _ZN6Attica8Provider12requestEventERK7QStringS3_RK5QDateNS0_8SortModeEii@Base 0.1.1
  _ZN6Attica8Provider13addNewContentERKNS_8CategoryERKNS_7ContentE@Base 0.1.1
@@ -335,7 +335,7 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica8Provider25requestKnowledgeBaseEntryERK7QString@Base 0.1.1
  _ZN6Attica8Provider25requestPersonSearchByNameERK7QString@Base 0.1.1
  _ZN6Attica8Provider26requestReceivedInvitationsEii@Base 0.1.1
- _ZN6Attica8Provider29requestPersonSearchByLocationEdddii@Base 0.1.1
+ _ZN6Attica8Provider29requestPersonSearchByLocationE{qreal}{qreal}{qreal}ii@Base 0.1.1
  _ZN6Attica8Provider9becomeFanERK7QString@Base 0.1.1
  _ZN6Attica8Provider9createUrlERK7QString@Base 0.1.1
  _ZN6Attica8ProviderC1ERK14QSharedPointerINS_17PlatformDependentEERK4QUrlRK7QStringS8_@Base 0.1.1
