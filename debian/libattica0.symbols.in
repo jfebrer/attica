@@ -471,6 +471,7 @@ libattica.so.0 libattica0 #MINVER#
  _ZNK6Attica8Metadata10statusCodeEv@Base 0.1.1
  _ZNK6Attica8Metadata12statusStringEv@Base 0.1.1
  _ZNK6Attica8Metadata5errorEv@Base 0.1.1
+ _ZNK6Attica8Provider14hasCredentialsEv@Base 0.1.2
  _ZNK6Attica8Provider4nameEv@Base 0.1.1
  _ZNK6Attica8Provider7baseUrlEv@Base 0.1.1
  _ZNK6Attica8Provider7isValidEv@Base 0.1.1

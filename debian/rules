@@ -16,4 +16,4 @@ override_dh_strip:
 	pkgkde-symbolshelper symbolfile -p libattica0 -o debian/libattica0.symbols
 
 override_dh_makeshlibs:
-	dh_makeshlibs -V 'libattica0 (>=0.1.1)'
+	dh_makeshlibs -V 'libattica0 (>=0.1.2)'
