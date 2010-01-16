@@ -1,3 +1,13 @@
+attica (0.1.2-1) unstable; urgency=low
+
+  [ Thibaut Gridel ]
+  * New Upstream version.
+  * Dropping no-qtgui patch applied upstream.
+  * Fixing symbols and version.
+  * Removing unneeded Section field.
+
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Sat, 16 Jan 2010 14:28:34 +0100
+
 attica (0.1.1-2) unstable; urgency=low
 
   [ Thibaut Gridel ]
