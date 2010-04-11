@@ -3,7 +3,7 @@ Priority: optional
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Thibaut Gridel <tgridel@free.fr>
 Build-Depends: debhelper (>= 7.3), cmake, libqt4-dev, pkg-kde-tools (>=0.6)
-Standards-Version: 3.8.3
+Standards-Version: 3.8.4
 Section: libs
 Homepage: http://www.kde.org
 Vcs-Browser: http://svn.debian.org/wsvn/pkg-kde/krap/attica/
