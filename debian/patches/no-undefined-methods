@@ -1,0 +1,94 @@
+Description: Removing undefined methods which break bindings
+ Those methods got changed from using a QSharedPointer to a
+ PlatformDependent* in upstream
+ http://websvn.kde.org/?view=revision&revision=1109050
+ .
+ Unfortunately leaving the header does not help at all and breaks the
+ kdebindings
+Author: Thibaut GRIDEL <tgridel@free.fr>
+Origin: debian
+
+--- attica-0.1.3.orig/lib/atticabasejob.h
++++ attica-0.1.3/lib/atticabasejob.h
+@@ -55,7 +55,6 @@ protected Q_SLOTS:
+     void dataFinished();
+ 
+ protected:
+-    BaseJob(const QSharedPointer<PlatformDependent>& internals);
+     BaseJob(PlatformDependent* internals);
+ 
+     void setMetadata(const Metadata& data) const;
+--- attica-0.1.3.orig/lib/getjob.h
++++ attica-0.1.3/lib/getjob.h
+@@ -37,7 +37,6 @@ class ATTICA_EXPORT GetJob : public Atti
+     Q_OBJECT
+ 
+ protected:
+-    GetJob(const QSharedPointer<PlatformDependent>& internals, const QNetworkRequest& request);
+     GetJob(PlatformDependent* internals, const QNetworkRequest& request);
+     
+ private:
+--- attica-0.1.3.orig/lib/itemjob.h
++++ attica-0.1.3/lib/itemjob.h
+@@ -37,7 +37,6 @@ public:
+     T result() const;
+ 
+ private:
+-    ItemJob(const QSharedPointer<PlatformDependent>& internals, const QNetworkRequest& request);
+     ItemJob(PlatformDependent*, const QNetworkRequest& request);
+     virtual void parse(const QString& xml);
+     T m_item;
+@@ -52,8 +51,6 @@ public:
+     T result() const;
+ 
+ private:
+-    ItemPostJob(const QSharedPointer<PlatformDependent>& internals, const QNetworkRequest& request, QIODevice * data);
+-    ItemPostJob(const QSharedPointer<PlatformDependent>& internals, const QNetworkRequest& request, const StringMap& parameters = StringMap());
+     ItemPostJob(PlatformDependent* internals, const QNetworkRequest& request, QIODevice * data);
+     ItemPostJob(PlatformDependent* internals, const QNetworkRequest& request, const StringMap& parameters = StringMap());
+ 
+--- attica-0.1.3.orig/lib/listjob.h
++++ attica-0.1.3/lib/listjob.h
+@@ -43,7 +43,6 @@ class ATTICA_EXPORT ListJob : public Get
+         virtual void parse(const QString& xml);
+ 
+     private:
+-        ListJob(const QSharedPointer<PlatformDependent>& internals, const QNetworkRequest& request);
+         ListJob(PlatformDependent* internals, const QNetworkRequest& request);
+         typename T::List m_itemList;
+         friend class Attica::Provider;
+--- attica-0.1.3.orig/lib/postjob.h
++++ attica-0.1.3/lib/postjob.h
+@@ -40,10 +40,6 @@ class ATTICA_EXPORT PostJob : public Bas
+     Q_OBJECT
+ 
+ protected:
+-    PostJob(const QSharedPointer<PlatformDependent>& internals, const QNetworkRequest& request, QIODevice* data);
+-    PostJob(const QSharedPointer<PlatformDependent>& internals, const QNetworkRequest& request, const StringMap& parameters = StringMap());
+-    PostJob(const QSharedPointer<PlatformDependent>& internals, const QNetworkRequest& request, const QByteArray& byteArray);
+-
+     PostJob(PlatformDependent* internals, const QNetworkRequest& request, QIODevice* data);
+     PostJob(PlatformDependent* internals, const QNetworkRequest& request, const StringMap& parameters = StringMap());
+     PostJob(PlatformDependent* internals, const QNetworkRequest& request, const QByteArray& byteArray);
+--- attica-0.1.3.orig/lib/provider.h
++++ attica-0.1.3/lib/provider.h
+@@ -219,9 +219,6 @@ class ATTICA_EXPORT Provider
+     class Private;
+     QExplicitlySharedDataPointer<Private> d;
+     
+-    // old constructor: used to pass internals as QSharedPointer, but changed to pointer
+-    // deleting the root objects of plugins is evil (see QPluginLoaded docs)
+-    Provider(const QSharedPointer<PlatformDependent>& internals, const QUrl& baseUrl, const QString& name, const QUrl& icon = QUrl());
+     // FIXME use baseUrl as id
+     Provider(PlatformDependent* internals, const QUrl& baseUrl, const QString& name, const QUrl& icon = QUrl());
+ 
+--- attica-0.1.3.orig/lib/providermanager.cpp
++++ attica-0.1.3/lib/providermanager.cpp
+@@ -29,7 +29,6 @@
+ #include <QtCore/QPluginLoader>
+ #include <QtCore/QSet>
+ #include <QtCore/QSignalMapper>
+-#include <QtCore/QSharedPointer>
+ #include <QtCore/QTimer>
+ #include <QtCore/QProcess>
+ #include <QtNetwork/QAuthenticator>
