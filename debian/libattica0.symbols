@@ -32,6 +32,7 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica15ProviderManager16staticMetaObjectE@Base 0.1.1
  _ZN6Attica15ProviderManager17parseProviderFileERK7QStringS3_@Base 0.1.1
  _ZN6Attica15ProviderManager18addProviderFromXmlERK7QString@Base 0.1.1
+ _ZN6Attica15ProviderManager20defaultProviderFilesEv@Base 0.1.4
  _ZN6Attica15ProviderManager20loadDefaultProvidersEv@Base 0.1.1
  _ZN6Attica15ProviderManager21loadPlatformDependentEv@Base 0.1.1
  _ZN6Attica15ProviderManager22defaultProvidersLoadedEv@Base 0.1.1
@@ -40,6 +41,8 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica15ProviderManager27setAuthenticationSuppressedEb@Base 0.1.1
  _ZN6Attica15ProviderManager32authenticationCredentialsMissingERKNS_8ProviderE@Base 0.1.1
  _ZN6Attica15ProviderManager32slotLoadDefaultProvidersInternalEv@Base 0.1.3
+ _ZN6Attica15ProviderManager33addProviderFileToDefaultProvidersERK4QUrl@Base 0.1.4
+ _ZN6Attica15ProviderManager38removeProviderFileFromDefaultProvidersERK4QUrl@Base 0.1.4
  _ZN6Attica15ProviderManager5clearEv@Base 0.1.1
  _ZN6Attica15ProviderManagerC1Ev@Base 0.1.1
  _ZN6Attica15ProviderManagerC2Ev@Base 0.1.1
@@ -304,6 +307,7 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica8MetadataD2Ev@Base 0.1.1
  _ZN6Attica8MetadataaSERKS0_@Base 0.1.1
  _ZN6Attica8Provider10checkLoginERK7QStringS3_@Base 0.1.1
+ _ZN6Attica8Provider10setEnabledEb@Base 0.1.4
  _ZN6Attica8Provider11editContentERKNS_8CategoryERK7QStringRKNS_7ContentE@Base 0.1.1
  _ZN6Attica8Provider11postMessageERKNS_7MessageE@Base 0.1.1
  _ZN6Attica8Provider11requestFansERK7QStringjj@Base 0.1.3
@@ -357,10 +361,10 @@ libattica.so.0 libattica0 #MINVER#
  (subst)_ZN6Attica8Provider29requestPersonSearchByLocationE{qreal}{qreal}{qreal}ii@Base 0.1.1
  _ZN6Attica8Provider9becomeFanERK7QString@Base 0.1.1
  _ZN6Attica8Provider9createUrlERK7QString@Base 0.1.1
- _ZN6Attica8ProviderC1EPNS_17PlatformDependentERK4QUrlRK7QStringS5_@Base 0.1.3
+ _ZN6Attica8ProviderC1EPNS_17PlatformDependentERK4QUrlRK7QStringS5_S8_S8_S8_S8_S8_S8_S8_S8_S8_@Base 0.1.4
  _ZN6Attica8ProviderC1ERKS0_@Base 0.1.1
  _ZN6Attica8ProviderC1Ev@Base 0.1.1
- _ZN6Attica8ProviderC2EPNS_17PlatformDependentERK4QUrlRK7QStringS5_@Base 0.1.3
+ _ZN6Attica8ProviderC2EPNS_17PlatformDependentERK4QUrlRK7QStringS5_S8_S8_S8_S8_S8_S8_S8_S8_S8_@Base 0.1.4
  _ZN6Attica8ProviderC2ERKS0_@Base 0.1.1
  _ZN6Attica8ProviderC2Ev@Base 0.1.1
  _ZN6Attica8ProviderD1Ev@Base 0.1.1
@@ -496,10 +500,27 @@ libattica.so.0 libattica0 #MINVER#
  _ZNK6Attica8Metadata10statusCodeEv@Base 0.1.1
  _ZNK6Attica8Metadata12statusStringEv@Base 0.1.1
  _ZNK6Attica8Metadata5errorEv@Base 0.1.1
+ _ZNK6Attica8Provider13hasFanServiceEv@Base 0.1.4
  _ZNK6Attica8Provider14hasCredentialsEv@Base 0.1.2
+ _ZNK6Attica8Provider16hasFriendServiceEv@Base 0.1.4
+ _ZNK6Attica8Provider16hasPersonServiceEv@Base 0.1.4
+ _ZNK6Attica8Provider17fanServiceVersionEv@Base 0.1.4
+ _ZNK6Attica8Provider17hasCommentServiceEv@Base 0.1.4
+ _ZNK6Attica8Provider17hasContentServiceEv@Base 0.1.4
+ _ZNK6Attica8Provider17hasMessageServiceEv@Base 0.1.4
+ _ZNK6Attica8Provider18hasActivityServiceEv@Base 0.1.4
+ _ZNK6Attica8Provider20friendServiceVersionEv@Base 0.1.4
+ _ZNK6Attica8Provider20personServiceVersionEv@Base 0.1.4
+ _ZNK6Attica8Provider21commentServiceVersionEv@Base 0.1.4
+ _ZNK6Attica8Provider21contentServiceVersionEv@Base 0.1.4
+ _ZNK6Attica8Provider21messageServiceVersionEv@Base 0.1.4
+ _ZNK6Attica8Provider22activityServiceVersionEv@Base 0.1.4
+ _ZNK6Attica8Provider23hasKnowledgebaseServiceEv@Base 0.1.4
+ _ZNK6Attica8Provider27knowledgebaseServiceVersionEv@Base 0.1.4
  _ZNK6Attica8Provider4nameEv@Base 0.1.1
  _ZNK6Attica8Provider7baseUrlEv@Base 0.1.1
  _ZNK6Attica8Provider7isValidEv@Base 0.1.1
+ _ZNK6Attica8Provider9isEnabledEv@Base 0.1.4
  _ZTIN6Attica11ItemPostJobINS_7ContentEEE@Base 0.1.1
  _ZTIN6Attica12DownloadItem6ParserE@Base 0.1.1
  _ZTIN6Attica14AccountBalance6ParserE@Base 0.1.1
