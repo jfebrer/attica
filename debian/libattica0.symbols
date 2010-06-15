@@ -1,4 +1,5 @@
 libattica.so.0 libattica0 #MINVER#
+* Build-Depends-Package: libattica-dev
  _ZN6Attica11ItemPostJobINS_7ContentEE5parseERK7QString@Base 0.1.1
  _ZN6Attica11ItemPostJobINS_7ContentEEC1EPNS_17PlatformDependentERK15QNetworkRequestP9QIODevice@Base 0.1.3
  _ZN6Attica11ItemPostJobINS_7ContentEEC1EPNS_17PlatformDependentERK15QNetworkRequestRK4QMapI7QStringS9_E@Base 0.1.3

@@ -1,3 +1,10 @@
+attica (0.1.4-2) UNRELEASED; urgency=low
+
+  [ Modestas Vainius ]
+  * Add Build-Depends-Package field to the symbol file.
+
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Tue, 15 Jun 2010 10:56:30 +0300
+
 attica (0.1.4-1) unstable; urgency=low
 
   [ Thibaut GRIDEL ]
