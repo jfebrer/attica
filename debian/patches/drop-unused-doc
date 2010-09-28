@@ -1,0 +1,12 @@
+Description: Drop unused doc dir
+ The doc dir is not present in the tarball, so the makefile does not build
+Author: Thibaut Gridel <tgridel@free.fr>
+
+--- attica-0.1.90.orig/CMakeLists.txt
++++ attica-0.1.90/CMakeLists.txt
+@@ -16,5 +16,3 @@ endif (ATTICA_ENABLE_TESTS)
+ set(CMAKE_INSTALL_NAME_DIR ${LIB_INSTALL_DIR})
+ 
+ add_subdirectory(lib)
+-
+-add_subdirectory( doc )

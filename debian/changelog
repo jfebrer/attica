@@ -5,6 +5,7 @@ attica (0.1.90-1) UNRELEASED; urgency=low
 
   [ Thibaut GRIDEL ]
   * New Upstream version.
+  * Patching to compile without doc dir.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 27 Sep 2010 23:41:33 +0200
 
