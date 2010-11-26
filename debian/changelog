@@ -1,10 +1,11 @@
 attica (0.2.0-0r1) UNRELEASED; urgency=low
 
+  * New 0.2.0 upstream version.
+
   [ Modestas Vainius ]
   * Add Build-Depends-Package field to the symbol file.
 
   [ Thibaut GRIDEL ]
-  * New Upstream version.
   * Adding new symbols for 0.1.90.
   * Bumping Standards-Version to 3.9.1.
 
