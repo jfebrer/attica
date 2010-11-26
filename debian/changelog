@@ -5,7 +5,6 @@ attica (0.2.0-1) UNRELEASED; urgency=low
 
   [ Thibaut GRIDEL ]
   * New Upstream version.
-  * Patching to compile without doc dir.
   * Adding new symbols.
   * Bumping Standards-Version to 3.9.1.
 
