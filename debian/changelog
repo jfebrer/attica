@@ -12,6 +12,7 @@ attica (0.2.0-0r1) UNRELEASED; urgency=low
   * Update copyright.
   * Make the install file generic.
   * Adding new symbols for 0.2.0.
+  * Remove useless dh_makeshlibs override.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 27 Sep 2010 23:41:33 +0200
 

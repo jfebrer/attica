@@ -5,6 +5,3 @@ export CXXFLAGS+=-fvisibility=hidden -fvisibility-inlines-hidden
 
 %:
 	dh $@ --parallel --with pkgkde_symbolshelper
-
-override_dh_makeshlibs:
-	dh_makeshlibs -V 'libattica0 (>=0.1.90)'
