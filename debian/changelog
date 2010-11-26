@@ -9,6 +9,9 @@ attica (0.2.0-1) UNRELEASED; urgency=low
   * Adding new symbols.
   * Bumping Standards-Version to 3.9.1.
 
+  [ Didier Raboud ]
+  * Update copyright.
+
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 27 Sep 2010 23:41:33 +0200
 
 attica (0.1.4-1) unstable; urgency=low
