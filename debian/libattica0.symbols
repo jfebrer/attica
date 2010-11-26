@@ -1,5 +1,11 @@
+# SymbolsHelper-Confirmed: 0.2.0 amd64
 libattica.so.0 libattica0 #MINVER#
 * Build-Depends-Package: libattica-dev
+ (optional=templinst)_ZN6Attica11ItemPostJobINS_7CommentEE5parseERK7QString@Base 0.2.0
+ (optional=templinst)_ZN6Attica11ItemPostJobINS_7CommentEEC1EPNS_17PlatformDependentERK15QNetworkRequestP9QIODevice@Base 0.2.0
+ (optional=templinst)_ZN6Attica11ItemPostJobINS_7CommentEEC1EPNS_17PlatformDependentERK15QNetworkRequestRK4QMapI7QStringS9_E@Base 0.2.0
+ (optional=templinst)_ZN6Attica11ItemPostJobINS_7CommentEEC2EPNS_17PlatformDependentERK15QNetworkRequestP9QIODevice@Base 0.2.0
+ (optional=templinst)_ZN6Attica11ItemPostJobINS_7CommentEEC2EPNS_17PlatformDependentERK15QNetworkRequestRK4QMapI7QStringS9_E@Base 0.2.0
  _ZN6Attica11ItemPostJobINS_7ContentEE5parseERK7QString@Base 0.1.1
  _ZN6Attica11ItemPostJobINS_7ContentEEC1EPNS_17PlatformDependentERK15QNetworkRequestP9QIODevice@Base 0.1.3
  _ZN6Attica11ItemPostJobINS_7ContentEEC1EPNS_17PlatformDependentERK15QNetworkRequestRK4QMapI7QStringS9_E@Base 0.1.3
@@ -30,8 +36,10 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica12DownloadItem15setGpgSignatureERK7QString@Base 0.1.90
  _ZN6Attica12DownloadItem17setGpgFingerprintERK7QString@Base 0.1.90
  _ZN6Attica12DownloadItem20setPackageRepositoryERK7QString@Base 0.1.90
+ _ZN6Attica12DownloadItem4typeEv@Base 0.2.0
  _ZN6Attica12DownloadItem6Parser8parseXmlER16QXmlStreamReader@Base 0.1.1
  _ZN6Attica12DownloadItem6setUrlERK4QUrl@Base 0.1.1
+ _ZN6Attica12DownloadItem7setTypeENS_19DownloadDescription4TypeE@Base 0.2.0
  _ZN6Attica12DownloadItemC1ERKS0_@Base 0.1.1
  _ZN6Attica12DownloadItemC1Ev@Base 0.1.1
  _ZN6Attica12DownloadItemC2ERKS0_@Base 0.1.1
@@ -482,6 +490,7 @@ libattica.so.0 libattica0 #MINVER#
  _ZN6Attica8ProviderD1Ev@Base 0.1.1
  _ZN6Attica8ProviderD2Ev@Base 0.1.1
  _ZN6Attica8ProvideraSERKS0_@Base 0.1.1
+ (optional=templinst)_ZNK6Attica11ItemPostJobINS_7CommentEE6resultEv@Base 0.2.0
  _ZNK6Attica11ItemPostJobINS_7ContentEE6resultEv@Base 0.1.1
  _ZNK6Attica11PrivateData4keysEv@Base 0.1.90
  _ZNK6Attica11PrivateData6Parser10xmlElementEv@Base 0.1.90
@@ -671,6 +680,7 @@ libattica.so.0 libattica0 #MINVER#
  _ZNK6Attica8Provider7baseUrlEv@Base 0.1.1
  _ZNK6Attica8Provider7isValidEv@Base 0.1.1
  _ZNK6Attica8Provider9isEnabledEv@Base 0.1.4
+ _ZTIN6Attica11ItemPostJobINS_7CommentEEE@Base 0.2.0
  _ZTIN6Attica11ItemPostJobINS_7ContentEEE@Base 0.1.1
  _ZTIN6Attica11PrivateData6ParserE@Base 0.1.90
  _ZTIN6Attica12Distribution6ParserE@Base 0.1.90
@@ -712,6 +722,7 @@ libattica.so.0 libattica0 #MINVER#
  _ZTIN6Attica7PostJobE@Base 0.1.1
  _ZTIN6Attica8Activity6ParserE@Base 0.1.1
  _ZTIN6Attica8Category6ParserE@Base 0.1.1
+ _ZTSN6Attica11ItemPostJobINS_7CommentEEE@Base 0.2.0
  _ZTSN6Attica11ItemPostJobINS_7ContentEEE@Base 0.1.1
  _ZTSN6Attica11PrivateData6ParserE@Base 0.1.90
  _ZTSN6Attica12Distribution6ParserE@Base 0.1.90
@@ -753,6 +764,7 @@ libattica.so.0 libattica0 #MINVER#
  _ZTSN6Attica7PostJobE@Base 0.1.1
  _ZTSN6Attica8Activity6ParserE@Base 0.1.1
  _ZTSN6Attica8Category6ParserE@Base 0.1.1
+ _ZTVN6Attica11ItemPostJobINS_7CommentEEE@Base 0.2.0
  _ZTVN6Attica11ItemPostJobINS_7ContentEEE@Base 0.1.1
  _ZTVN6Attica11PrivateData6ParserE@Base 0.1.90
  _ZTVN6Attica12Distribution6ParserE@Base 0.1.90

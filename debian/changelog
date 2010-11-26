@@ -1,16 +1,17 @@
-attica (0.2.0-1) UNRELEASED; urgency=low
+attica (0.2.0-0r1) UNRELEASED; urgency=low
 
   [ Modestas Vainius ]
   * Add Build-Depends-Package field to the symbol file.
 
   [ Thibaut GRIDEL ]
   * New Upstream version.
-  * Adding new symbols.
+  * Adding new symbols for 0.1.90.
   * Bumping Standards-Version to 3.9.1.
 
   [ Didier Raboud ]
   * Update copyright.
   * Make the install file generic.
+  * Adding new symbols for 0.2.0.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 27 Sep 2010 23:41:33 +0200
 
