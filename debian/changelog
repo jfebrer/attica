@@ -1,4 +1,4 @@
-attica (0.2.0-0r1) UNRELEASED; urgency=low
+attica (0.2.0-1) unstable; urgency=low
 
   * New 0.2.0 upstream version.
 
@@ -16,7 +16,7 @@ attica (0.2.0-0r1) UNRELEASED; urgency=low
   * Adding new symbols for 0.2.0.
   * Remove useless dh_makeshlibs override.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 27 Sep 2010 23:41:33 +0200
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 14 Mar 2011 01:19:22 +0200
 
 attica (0.1.4-1) unstable; urgency=low
 
