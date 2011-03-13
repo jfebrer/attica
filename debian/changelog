@@ -4,6 +4,7 @@ attica (0.2.0-0r1) UNRELEASED; urgency=low
 
   [ Modestas Vainius ]
   * Add Build-Depends-Package field to the symbol file.
+  * Remove article from the description synopsis of libattica0.
 
   [ Thibaut GRIDEL ]
   * Adding new symbols for 0.1.90.

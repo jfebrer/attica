@@ -24,7 +24,7 @@ Description: development files for libattica
 Package: libattica0
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: a Qt library that implements the Open Collaboration Services API
+Description: Qt library that implements the Open Collaboration Services API
  Attica is a Qt library that implements the Open Collaboration Services
  API version 1.4.
  It grants easy access to the services such as querying information about
