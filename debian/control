@@ -30,3 +30,14 @@ Description: Qt library that implements the Open Collaboration Services API
  It grants easy access to the services such as querying information about
  persons and contents.
 
+Package: libattica-dbg
+Priority: extra
+Section: debug
+Architecture: any
+Depends: libattica4 (= ${binary:Version}), ${misc:Depends}
+Description: debug symbols for libattica
+ Attica is a Qt library that implements the Open Collaboration Services
+ API version 1.4.
+ .
+ This package contains the debug symbols..
+
