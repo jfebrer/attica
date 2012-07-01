@@ -8,6 +8,7 @@ attica (0.4.0-0r1) UNRELEASED; urgency=low
   [ Pino Toscano ]
   * Add myself to Uploaders.
   * Rename libattica0 to libattica4, according to the new SONAME.
+  * Drop patch no-rpath, applied upstream.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 10 May 2012 23:38:23 +0200
 
