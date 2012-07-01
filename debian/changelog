@@ -1,8 +1,9 @@
 attica (0.2.0-1.1) UNRELEASED; urgency=low
 
+  [ Ana Beatriz Guerrero Lopez ]
   * Remove Thibaut Gridel from Uploaders as he requested.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 10 May 2012 23:38:23 +0200
+ -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 10 May 2012 23:38:23 +0200
 
 attica (0.2.0-1) unstable; urgency=low
 
