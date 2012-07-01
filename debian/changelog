@@ -15,7 +15,6 @@ attica (0.4.0-0r1) UNRELEASED; urgency=low
     - bump the debhelper build dependency to 9
   * Drop the custom CXXFLAGS, they seem to break compilation.
   * Update the symbols file.
-  * Enable the build and the execution of the (few) unit tests.
   * Update Vcs-Browser header and migrate Vcs-Svn to Vcs-Git.
   * Add libattica-dbg.
   * Remove templates-like comments from the watch file.

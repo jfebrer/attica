@@ -6,8 +6,5 @@
 %:
 	dh $@ --parallel --with pkgkde_symbolshelper
 
-override_dh_auto_configure:
-	dh_auto_configure -- -DATTICA_ENABLE_TESTS=ON
-
 override_dh_strip:
 	dh_strip --dbg-package=libattica-dbg
