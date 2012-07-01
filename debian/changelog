@@ -15,6 +15,7 @@ attica (0.4.0-0r1) UNRELEASED; urgency=low
     - bump the debhelper build dependency to 9
   * Drop the custom CXXFLAGS, they seem to break compilation.
   * Update the symbols file.
+  * Enable the build and the execution of the (few) unit tests.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 10 May 2012 23:38:23 +0200
 
