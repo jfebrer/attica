@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 0.4.0 amd64
-libattica.so.0.4 libattica4 #MINVER#
+libattica.so.0.4 libattica0.4 #MINVER#
 * Build-Depends-Package: libattica-dev
  _Z21projectPostParametersRKN6Attica7ProjectE@Base 0.4.0
  _Z23qStringComparisonHelperRK10QStringRefPKc@Base 0.4.0

@@ -7,7 +7,7 @@ attica (0.4.0-0r1) UNRELEASED; urgency=low
 
   [ Pino Toscano ]
   * Add myself to Uploaders.
-  * Rename libattica0 to libattica4, according to the new SONAME.
+  * Rename libattica0 to libattica0.4, according to the new SONAME.
   * Drop patch no-rpath, applied upstream.
   * Bump Standards-Version to 3.9.3, no changes required.
   * Bump the debhelper compatibility to v9:

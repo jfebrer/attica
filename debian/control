@@ -12,7 +12,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/krap/attica.git
 Package: libattica-dev
 Section: libdevel
 Architecture: any
-Depends: libattica4 (= ${binary:Version}), ${misc:Depends}
+Depends: libattica0.4 (= ${binary:Version}), ${misc:Depends}
 Description: development files for libattica
  Attica is a Qt library that implements the Open Collaboration Services
  API version 1.4.
@@ -21,7 +21,7 @@ Description: development files for libattica
  .
  This package contains the development header files. 
 
-Package: libattica4
+Package: libattica0.4
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Qt library that implements the Open Collaboration Services API
@@ -34,7 +34,7 @@ Package: libattica-dbg
 Priority: extra
 Section: debug
 Architecture: any
-Depends: libattica4 (= ${binary:Version}), ${misc:Depends}
+Depends: libattica0.4 (= ${binary:Version}), ${misc:Depends}
 Description: debug symbols for libattica
  Attica is a Qt library that implements the Open Collaboration Services
  API version 1.4.
