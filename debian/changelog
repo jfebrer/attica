@@ -13,6 +13,7 @@ attica (0.4.0-0r1) UNRELEASED; urgency=low
   * Bump the debhelper compatibility to v9:
     - bump compat to 9
     - bump the debhelper build dependency to 9
+  * Drop the custom CXXFLAGS, they seem to break compilation.
   * Update the symbols file.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 10 May 2012 23:38:23 +0200
