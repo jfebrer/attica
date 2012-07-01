@@ -1,4 +1,6 @@
-attica (0.2.0-1.1) UNRELEASED; urgency=low
+attica (0.4.0-0r1) UNRELEASED; urgency=low
+
+  * New upstream release.
 
   [ Ana Beatriz Guerrero Lopez ]
   * Remove Thibaut Gridel from Uploaders as he requested.
