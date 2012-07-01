@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
-export CXXFLAGS+=-fvisibility=hidden -fvisibility-inlines-hidden
+export DEB_CXXFLAGS_MAINT_APPEND := -fvisibility=hidden -fvisibility-inlines-hidden
 
 %:
 	dh $@ --parallel --with pkgkde_symbolshelper

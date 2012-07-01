@@ -10,6 +10,9 @@ attica (0.4.0-0r1) UNRELEASED; urgency=low
   * Rename libattica0 to libattica4, according to the new SONAME.
   * Drop patch no-rpath, applied upstream.
   * Bump Standards-Version to 3.9.3, no changes required.
+  * Bump the debhelper compatibility to v9:
+    - bump compat to 9
+    - bump the debhelper build dependency to 9
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 10 May 2012 23:38:23 +0200
 
