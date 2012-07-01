@@ -12,7 +12,7 @@ Vcs-Svn: svn://svn.debian.org/pkg-kde/krap/attica
 Package: libattica-dev
 Section: libdevel
 Architecture: any
-Depends: libattica0 (= ${binary:Version}), ${misc:Depends}
+Depends: libattica4 (= ${binary:Version}), ${misc:Depends}
 Description: development files for libattica
  Attica is a Qt library that implements the Open Collaboration Services
  API version 1.4.
@@ -21,7 +21,7 @@ Description: development files for libattica
  .
  This package contains the development header files. 
 
-Package: libattica0
+Package: libattica4
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Qt library that implements the Open Collaboration Services API

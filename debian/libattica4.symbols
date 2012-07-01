@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 0.2.0 amd64
-libattica.so.0 libattica0 #MINVER#
+libattica.so.4 libattica4 #MINVER#
 * Build-Depends-Package: libattica-dev
  (optional=templinst)_ZN6Attica11ItemPostJobINS_7CommentEE5parseERK7QString@Base 0.2.0
  (optional=templinst)_ZN6Attica11ItemPostJobINS_7CommentEEC1EPNS_17PlatformDependentERK15QNetworkRequestP9QIODevice@Base 0.2.0
