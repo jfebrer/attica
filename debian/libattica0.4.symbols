@@ -1,310 +1,6 @@
 # SymbolsHelper-Confirmed: 0.4.0 amd64
 libattica.so.0.4 libattica0.4 #MINVER#
 * Build-Depends-Package: libattica-dev
- _Z21projectPostParametersRKN6Attica7ProjectE@Base 0.4.0
- _Z23qStringComparisonHelperRK10QStringRefPKc@Base 0.4.0
- _Z29buildServiceJobPostParametersRKN6Attica15BuildServiceJobE@Base 0.4.0
- _ZN10QByteArray6detachEv@Base 0.4.0
- _ZN10QByteArrayD1Ev@Base 0.4.0
- _ZN10QByteArrayD2Ev@Base 0.4.0
- _ZN11QStringListD1Ev@Base 0.4.0
- _ZN11QStringListD2Ev@Base 0.4.0
- _ZN12QMutexLocker6unlockEv@Base 0.4.0
- (optional=templinst)_ZN13QConcatenableI14QStringBuilderI13QLatin1String7QStringEE8appendToI5QCharEEvRKS3_RPT_@Base 0.4.0
- (optional=templinst)_ZN13QConcatenableI14QStringBuilderI13QLatin1StringS1_EE4sizeERKS2_@Base 0.4.0
- (optional=templinst)_ZN13QConcatenableI14QStringBuilderIS0_I13QLatin1String7QStringES1_EE4sizeERKS4_@Base 0.4.0
- (optional=templinst)_ZN13QConcatenableI14QStringBuilderIS0_I13QLatin1String7QStringES1_EE8appendToI5QCharEEvRKS4_RPT_@Base 0.4.0
- (optional=templinst)_ZN13QConcatenableI14QStringBuilderIS0_I7QString11QLatin1CharES1_EE8appendToI5QCharEEvRKS4_RPT_@Base 0.4.0
- (optional=templinst)_ZN13QConcatenableI14QStringBuilderIS0_IS0_I13QLatin1String7QStringE11QLatin1CharES2_EE8appendToI5QCharEEvRKS6_RPT_@Base 0.4.0
- (optional=templinst)_ZN13QConcatenableI14QStringBuilderIS0_IS0_IS0_I13QLatin1String7QStringES1_ES2_ES1_EE4sizeERKS6_@Base 0.4.0
- (optional=templinst)_ZN13QConcatenableI14QStringBuilderIS0_IS0_IS0_I13QLatin1String7QStringES1_ES2_ES1_EE8appendToI5QCharEEvRKS6_RPT_@Base 0.4.0
- (optional=templinst)_ZN13QConcatenableI14QStringBuilderIS0_IS0_IS0_IS0_I13QLatin1String7QStringE11QLatin1CharES2_ES4_ES2_EE8appendToI5QCharEEvRKS8_RPT_@Base 0.4.0
- (optional=templinst)_ZN17QForeachContainerI11QStringListEC1ERKS0_@Base 0.4.0
- (optional=templinst)_ZN17QForeachContainerI11QStringListEC2ERKS0_@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica11Achievement7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica11PrivateData7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica12BuildService7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica12Distribution7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica12DownloadItem7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica12HomePageType7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica13HomePageEntry7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica13RemoteAccount7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica14AccountBalance7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica14PublisherField7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica15BuildServiceJob7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica18KnowledgeBaseEntry7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica19DownloadDescription7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica21BuildServiceJobOutput7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica4Icon7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica5Event7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica5Forum7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica5Topic7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica6Folder7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica6Person7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica7Comment7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica7Content7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica7License7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica7Message7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica7Project7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica8Activity7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica8Category7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica8Metadata7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN18QSharedDataPointerIN6Attica9Publisher7PrivateEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN28QExplicitlySharedDataPointerIN6Attica8Provider7PrivateEED1Ev@Base 0.4.0
- (optional=templinst)_ZN28QExplicitlySharedDataPointerIN6Attica8Provider7PrivateEED2Ev@Base 0.4.0
- (optional=templinst)_ZN28QExplicitlySharedDataPointerIN6Attica8Provider7PrivateEEaSERKS3_@Base 0.4.0
- (optional=templinst)_ZN4QMapI7QString9QDateTimeE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN4QMapI7QStringS0_E11node_createEP8QMapDataPPNS2_4NodeERKS0_S8_@Base 0.4.0
- (optional=templinst)_ZN4QMapI7QStringS0_E13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN4QMapI7QStringS0_E6insertERKS0_S3_@Base 0.4.0
- (optional=templinst)_ZN4QMapI7QStringS0_ED1Ev@Base 0.4.0
- (optional=templinst)_ZN4QMapI7QStringS0_ED2Ev@Base 0.4.0
- (optional=templinst)_ZN4QSetIP7QThreadED1Ev@Base 0.4.0
- (optional=templinst)_ZN4QSetIP7QThreadED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashI4QUrl5QListI7QStringEE11deleteNode2EPN9QHashData4NodeE@Base 0.4.0
- (optional=templinst)_ZN5QHashI4QUrl5QListI7QStringEE13duplicateNodeEPN9QHashData4NodeEPv@Base 0.4.0
- (optional=templinst)_ZN5QHashI4QUrl5QListI7QStringEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashI4QUrl5QListI7QStringEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashI4QUrlN6Attica8ProviderEE11deleteNode2EPN9QHashData4NodeE@Base 0.4.0
- (optional=templinst)_ZN5QHashI4QUrlN6Attica8ProviderEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QHashI4QUrlN6Attica8ProviderEE13duplicateNodeEPN9QHashData4NodeEPv@Base 0.4.0
- (optional=templinst)_ZN5QHashI4QUrlN6Attica8ProviderEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashI4QUrlN6Attica8ProviderEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QString5QPairIS0_S0_EE11deleteNode2EPN9QHashData4NodeE@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QString5QPairIS0_S0_EE13duplicateNodeEPN9QHashData4NodeEPv@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QString5QPairIS0_S0_EED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QString5QPairIS0_S0_EED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QStringP13QNetworkReplyE11deleteNode2EPN9QHashData4NodeE@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QStringP13QNetworkReplyE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QStringP13QNetworkReplyE13duplicateNodeEPN9QHashData4NodeEPv@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QStringP13QNetworkReplyE4takeERKS0_@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QStringP13QNetworkReplyED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashI7QStringP13QNetworkReplyED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThread15QHashDummyValueE11deleteNode2EPN9QHashData4NodeE@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThread15QHashDummyValueE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThread15QHashDummyValueE13duplicateNodeEPN9QHashData4NodeEPv@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThread15QHashDummyValueE6removeERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThreadP21QNetworkAccessManagerE11deleteNode2EPN9QHashData4NodeE@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThreadP21QNetworkAccessManagerE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThreadP21QNetworkAccessManagerE13duplicateNodeEPN9QHashData4NodeEPv@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThreadP21QNetworkAccessManagerE6removeERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThreadP21QNetworkAccessManagerED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QHashIP7QThreadP21QNetworkAccessManagerED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListI4QUrlE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListI4QUrlE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListI4QUrlE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListI4QUrlE6appendERKS0_@Base 0.4.0
- (optional=templinst)_ZN5QListI4QUrlE7reserveEi@Base 0.4.0
- (optional=templinst)_ZN5QListI4QUrlED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListI4QUrlED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListI7QStringE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListI7QStringE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListI7QStringE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListI7QStringE6appendERKS0_@Base 0.4.0
- (optional=templinst)_ZN5QListI7QStringE9removeOneERKS0_@Base 0.4.0
- (optional=templinst)_ZN5QListI7QStringED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListI7QStringED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListI7QStringEpLERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11AchievementEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11AchievementEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11AchievementEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11AchievementEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11AchievementEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11AchievementEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11AchievementEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11PrivateDataEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11PrivateDataEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11PrivateDataEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11PrivateDataEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica11PrivateDataEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12BuildServiceEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12BuildServiceEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12BuildServiceEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12BuildServiceEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12BuildServiceEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12BuildServiceEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12BuildServiceEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DistributionEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DistributionEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DistributionEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DistributionEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DistributionEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DistributionEEC1ERKS2_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DistributionEEC2ERKS2_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DistributionEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DistributionEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DownloadItemEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DownloadItemEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DownloadItemEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DownloadItemEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DownloadItemEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DownloadItemEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12DownloadItemEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12HomePageTypeEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12HomePageTypeEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12HomePageTypeEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12HomePageTypeEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12HomePageTypeEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12HomePageTypeEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica12HomePageTypeEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica13HomePageEntryEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica13HomePageEntryEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica13RemoteAccountEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica13RemoteAccountEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica13RemoteAccountEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica13RemoteAccountEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica13RemoteAccountEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica13RemoteAccountEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica13RemoteAccountEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14AccountBalanceEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14AccountBalanceEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14AccountBalanceEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14AccountBalanceEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14AccountBalanceEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14PublisherFieldEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14PublisherFieldEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14PublisherFieldEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14PublisherFieldEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14PublisherFieldEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14PublisherFieldEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica14PublisherFieldEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica15BuildServiceJobEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica15BuildServiceJobEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica15BuildServiceJobEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica15BuildServiceJobEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica15BuildServiceJobEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica15BuildServiceJobEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica15BuildServiceJobEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica18KnowledgeBaseEntryEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica18KnowledgeBaseEntryEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica18KnowledgeBaseEntryEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica18KnowledgeBaseEntryEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica18KnowledgeBaseEntryEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica18KnowledgeBaseEntryEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica18KnowledgeBaseEntryEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica19DownloadDescriptionEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica19DownloadDescriptionEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica21BuildServiceJobOutputEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica21BuildServiceJobOutputEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica21BuildServiceJobOutputEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica21BuildServiceJobOutputEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica21BuildServiceJobOutputEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica4IconEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica4IconEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica4IconEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica4IconEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica4IconEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica4IconEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5EventEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5EventEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5EventEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5EventEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5EventEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5EventEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5EventEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5FieldEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5FieldEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5FieldEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5FieldEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5FieldEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5FieldEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5ForumEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5ForumEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5ForumEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5ForumEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5ForumEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5ForumEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5ForumEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5TopicEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5TopicEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5TopicEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5TopicEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5TopicEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5TopicEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica5TopicEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6FolderEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6FolderEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6FolderEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6FolderEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6FolderEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6FolderEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6FolderEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6PersonEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6PersonEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6PersonEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6PersonEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6PersonEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6PersonEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6PersonEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6TargetEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6TargetEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6TargetEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica6TargetEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7CommentEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7CommentEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7CommentEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7CommentEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7CommentEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7CommentEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7CommentEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ContentEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ContentEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ContentEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ContentEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ContentEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ContentEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ContentEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7LicenseEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7LicenseEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7LicenseEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7LicenseEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7LicenseEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7LicenseEEC1ERKS2_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7LicenseEEC2ERKS2_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7LicenseEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7LicenseEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7MessageEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7MessageEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7MessageEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7MessageEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7MessageEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7MessageEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7MessageEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ProjectEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ProjectEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ProjectEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ProjectEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ProjectEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ProjectEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica7ProjectEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ActivityEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ActivityEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ActivityEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ActivityEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ActivityEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ActivityEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ActivityEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8CategoryEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8CategoryEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8CategoryEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8CategoryEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8CategoryEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8CategoryEEC1ERKS2_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8CategoryEEC2ERKS2_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8CategoryEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8CategoryEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ProviderEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ProviderEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica8ProviderEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica9PublisherEE13detach_helperEi@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica9PublisherEE13detach_helperEv@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica9PublisherEE18detach_helper_growEii@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica9PublisherEE6appendERKS1_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica9PublisherEE9node_copyEPNS2_4NodeES4_S4_@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica9PublisherEED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QListIN6Attica9PublisherEED2Ev@Base 0.4.0
- (optional=templinst)_ZN5QPairI7QStringS0_ED1Ev@Base 0.4.0
- (optional=templinst)_ZN5QPairI7QStringS0_ED2Ev@Base 0.4.0
  (optional=templinst)_ZN6Attica10ItemPutJobINS_11AchievementEE5parseERK7QString@Base 0.4.0
  (optional=templinst)_ZN6Attica10ItemPutJobINS_11AchievementEEC1EPNS_17PlatformDependentERK15QNetworkRequestP9QIODevice@Base 0.4.0
  (optional=templinst)_ZN6Attica10ItemPutJobINS_11AchievementEEC1EPNS_17PlatformDependentERK15QNetworkRequestRK4QMapI7QStringS9_E@Base 0.4.0
@@ -493,16 +189,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica12HomePageTypeD1Ev@Base 0.4.0
  _ZN6Attica12HomePageTypeD2Ev@Base 0.4.0
  _ZN6Attica12HomePageTypeaSERKS0_@Base 0.4.0
- _ZN6Attica12PostFileData11addArgumentERK7QStringS3_@Base 0.4.0
- _ZN6Attica12PostFileData12randomStringEi@Base 0.4.0
- _ZN6Attica12PostFileData4dataEv@Base 0.4.0
- _ZN6Attica12PostFileData6finishEv@Base 0.4.0
- _ZN6Attica12PostFileData7addFileERK7QStringRK10QByteArrayS3_S3_@Base 0.4.0
- _ZN6Attica12PostFileData7requestEv@Base 0.4.0
- _ZN6Attica12PostFileDataC1ERK4QUrl@Base 0.4.0
- _ZN6Attica12PostFileDataC2ERK4QUrl@Base 0.4.0
- _ZN6Attica12PostFileDataD1Ev@Base 0.4.0
- _ZN6Attica12PostFileDataD2Ev@Base 0.4.0
  _ZN6Attica13HomePageEntry6setUrlERK4QUrl@Base 0.4.0
  _ZN6Attica13HomePageEntry7setTypeERK7QString@Base 0.4.0
  _ZN6Attica13HomePageEntryC1ERKS0_@Base 0.4.0
@@ -608,10 +294,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica15ProviderManagerD0Ev@Base 0.4.0
  _ZN6Attica15ProviderManagerD1Ev@Base 0.4.0
  _ZN6Attica15ProviderManagerD2Ev@Base 0.4.0
- _ZN6Attica17PlatformDependent6setNamEP21QNetworkAccessManager@Base 0.4.0
- _ZN6Attica17PlatformDependentD0Ev@Base 0.4.0
- _ZN6Attica17PlatformDependentD1Ev@Base 0.4.0
- _ZN6Attica17PlatformDependentD2Ev@Base 0.4.0
  _ZN6Attica18KnowledgeBaseEntry10setChangedERK9QDateTime@Base 0.4.0
  _ZN6Attica18KnowledgeBaseEntry11setCommentsEi@Base 0.4.0
  _ZN6Attica18KnowledgeBaseEntry12setContentIdEi@Base 0.4.0
@@ -671,27 +353,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica19DownloadDescriptionD1Ev@Base 0.4.0
  _ZN6Attica19DownloadDescriptionD2Ev@Base 0.4.0
  _ZN6Attica19DownloadDescriptionaSERKS0_@Base 0.4.0
- _ZN6Attica19PlatformDependentV2D0Ev@Base 0.4.0
- _ZN6Attica19PlatformDependentV2D1Ev@Base 0.4.0
- _ZN6Attica19PlatformDependentV2D2Ev@Base 0.4.0
- _ZN6Attica19QtPlatformDependent14deleteResourceERK15QNetworkRequest@Base 0.4.0
- _ZN6Attica19QtPlatformDependent15loadCredentialsERK4QUrlR7QStringS5_@Base 0.4.0
- _ZN6Attica19QtPlatformDependent15saveCredentialsERK4QUrlRK7QStringS6_@Base 0.4.0
- _ZN6Attica19QtPlatformDependent17askForCredentialsERK4QUrlR7QStringS5_@Base 0.4.0
- _ZN6Attica19QtPlatformDependent22addDefaultProviderFileERK4QUrl@Base 0.4.0
- _ZN6Attica19QtPlatformDependent23setNetworkAccessManagerEP21QNetworkAccessManager@Base 0.4.0
- _ZN6Attica19QtPlatformDependent25removeDefaultProviderFileERK4QUrl@Base 0.4.0
- _ZN6Attica19QtPlatformDependent3getERK15QNetworkRequest@Base 0.4.0
- _ZN6Attica19QtPlatformDependent3namEv@Base 0.4.0
- _ZN6Attica19QtPlatformDependent3putERK15QNetworkRequestP9QIODevice@Base 0.4.0
- _ZN6Attica19QtPlatformDependent3putERK15QNetworkRequestRK10QByteArray@Base 0.4.0
- _ZN6Attica19QtPlatformDependent4postERK15QNetworkRequestP9QIODevice@Base 0.4.0
- _ZN6Attica19QtPlatformDependent4postERK15QNetworkRequestRK10QByteArray@Base 0.4.0
- _ZN6Attica19QtPlatformDependentC1Ev@Base 0.4.0
- _ZN6Attica19QtPlatformDependentC2Ev@Base 0.4.0
- _ZN6Attica19QtPlatformDependentD0Ev@Base 0.4.0
- _ZN6Attica19QtPlatformDependentD1Ev@Base 0.4.0
- _ZN6Attica19QtPlatformDependentD2Ev@Base 0.4.0
  _ZN6Attica21BuildServiceJobOutput6Parser8parseXmlER16QXmlStreamReader@Base 0.4.0
  _ZN6Attica21BuildServiceJobOutput6ParserD0Ev@Base 0.4.0
  _ZN6Attica21BuildServiceJobOutput6ParserD1Ev@Base 0.4.0
@@ -737,8 +398,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica5EventD1Ev@Base 0.4.0
  _ZN6Attica5EventD2Ev@Base 0.4.0
  _ZN6Attica5EventaSERKS0_@Base 0.4.0
- _ZN6Attica5FieldD1Ev@Base 0.4.0
- _ZN6Attica5FieldD2Ev@Base 0.4.0
  _ZN6Attica5Forum11setChildrenE5QListIS0_E@Base 0.4.0
  _ZN6Attica5Forum13setChildCountEi@Base 0.4.0
  _ZN6Attica5Forum14setDescriptionERK7QString@Base 0.4.0
@@ -777,7 +436,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica5TopicD1Ev@Base 0.4.0
  _ZN6Attica5TopicD2Ev@Base 0.4.0
  _ZN6Attica5TopicaSERKS0_@Base 0.4.0
- _ZN6Attica5Utils22parseQtDateTimeIso8601ERK7QString@Base 0.4.0
  _ZN6Attica6Folder15setMessageCountEi@Base 0.4.0
  _ZN6Attica6Folder5setIdERK7QString@Base 0.4.0
  _ZN6Attica6Folder6Parser8parseXmlER16QXmlStreamReader@Base 0.4.0
@@ -802,156 +460,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica6GetJobD0Ev@Base 0.4.0
  _ZN6Attica6GetJobD1Ev@Base 0.4.0
  _ZN6Attica6GetJobD2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11AchievementEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11AchievementEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11AchievementEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11AchievementEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11AchievementEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11AchievementEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11PrivateDataEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11PrivateDataEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11PrivateDataEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11PrivateDataEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11PrivateDataEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_11PrivateDataEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12BuildServiceEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12BuildServiceEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12BuildServiceEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12BuildServiceEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12BuildServiceEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12BuildServiceEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DistributionEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DistributionEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DistributionEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DistributionEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DistributionEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DistributionEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DownloadItemEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DownloadItemEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DownloadItemEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DownloadItemEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DownloadItemEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12DownloadItemEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12HomePageTypeEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12HomePageTypeEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12HomePageTypeEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12HomePageTypeEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12HomePageTypeEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_12HomePageTypeEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_13RemoteAccountEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_13RemoteAccountEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_13RemoteAccountEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_13RemoteAccountEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_13RemoteAccountEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_13RemoteAccountEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14AccountBalanceEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14AccountBalanceEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14AccountBalanceEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14AccountBalanceEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14AccountBalanceEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14AccountBalanceEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14PublisherFieldEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14PublisherFieldEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14PublisherFieldEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14PublisherFieldEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14PublisherFieldEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_14PublisherFieldEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_15BuildServiceJobEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_15BuildServiceJobEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_15BuildServiceJobEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_15BuildServiceJobEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_15BuildServiceJobEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_15BuildServiceJobEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_18KnowledgeBaseEntryEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_18KnowledgeBaseEntryEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_18KnowledgeBaseEntryEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_18KnowledgeBaseEntryEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_18KnowledgeBaseEntryEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_18KnowledgeBaseEntryEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_21BuildServiceJobOutputEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_21BuildServiceJobOutputEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_21BuildServiceJobOutputEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_21BuildServiceJobOutputEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_21BuildServiceJobOutputEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_21BuildServiceJobOutputEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5EventEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5EventEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5EventEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5EventEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5EventEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5EventEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5ForumEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5ForumEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5ForumEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5ForumEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5ForumEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5ForumEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5TopicEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5TopicEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5TopicEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5TopicEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5TopicEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_5TopicEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6FolderEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6FolderEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6FolderEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6FolderEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6FolderEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6FolderEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6PersonEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6PersonEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6PersonEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6PersonEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6PersonEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_6PersonEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7CommentEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7CommentEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7CommentEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7CommentEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7CommentEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7CommentEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ContentEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ContentEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ContentEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ContentEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ContentEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ContentEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7LicenseEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7LicenseEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7LicenseEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7LicenseEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7LicenseEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7LicenseEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7MessageEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7MessageEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7MessageEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7MessageEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7MessageEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7MessageEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ProjectEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ProjectEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ProjectEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ProjectEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ProjectEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_7ProjectEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8ActivityEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8ActivityEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8ActivityEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8ActivityEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8ActivityEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8ActivityEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8CategoryEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8CategoryEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8CategoryEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8CategoryEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8CategoryEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_8CategoryEED2Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_9PublisherEE16parseMetadataXmlER16QXmlStreamReader@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_9PublisherEE5parseERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_9PublisherEE9parseListERK7QString@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_9PublisherEED0Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_9PublisherEED1Ev@Base 0.4.0
- (optional=templinst)_ZN6Attica6ParserINS_9PublisherEED2Ev@Base 0.4.0
  _ZN6Attica6Person10setCountryERK7QString@Base 0.4.0
  _ZN6Attica6Person11setBirthdayERK5QDate@Base 0.4.0
  _ZN6Attica6Person11setHomepageERK7QString@Base 0.4.0
@@ -988,8 +496,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica6PutJobD0Ev@Base 0.4.0
  _ZN6Attica6PutJobD1Ev@Base 0.4.0
  _ZN6Attica6PutJobD2Ev@Base 0.4.0
- _ZN6Attica6TargetD1Ev@Base 0.4.0
- _ZN6Attica6TargetD2Ev@Base 0.4.0
  _ZN6Attica7BaseJob11qt_metacallEN11QMetaObject4CallEiPPv@Base 0.4.0
  _ZN6Attica7BaseJob11qt_metacastEPKc@Base 0.4.0
  _ZN6Attica7BaseJob12dataFinishedEv@Base 0.4.0
@@ -1487,12 +993,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica8Provider27uploadTarballToBuildServiceERK7QStringS3_RK10QByteArray@Base 0.4.0
  _ZN6Attica8Provider28requestBuildServiceJobOutputERK7QString@Base 0.4.0
  (subst)_ZN6Attica8Provider29requestPersonSearchByLocationE{qreal}{qreal}{qreal}ii@Base 0.4.0
- _ZN6Attica8Provider7PrivateC1EPNS_17PlatformDependentERK4QUrlRK7QStringS6_S9_S9_S9_S9_S9_S9_S9_S9_S9_S9_S9_@Base 0.4.0
- _ZN6Attica8Provider7PrivateC1Ev@Base 0.4.0
- _ZN6Attica8Provider7PrivateC2EPNS_17PlatformDependentERK4QUrlRK7QStringS6_S9_S9_S9_S9_S9_S9_S9_S9_S9_S9_S9_@Base 0.4.0
- _ZN6Attica8Provider7PrivateC2Ev@Base 0.4.0
- _ZN6Attica8Provider7PrivateD1Ev@Base 0.4.0
- _ZN6Attica8Provider7PrivateD2Ev@Base 0.4.0
  _ZN6Attica8Provider9becomeFanERK7QString@Base 0.4.0
  _ZN6Attica8Provider9createUrlERK7QString@Base 0.4.0
  _ZN6Attica8Provider9postTopicERK7QStringS3_S3_@Base 0.4.0
@@ -1530,43 +1030,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica9PublisherD1Ev@Base 0.4.0
  _ZN6Attica9PublisherD2Ev@Base 0.4.0
  _ZN6Attica9PublisheraSERKS0_@Base 0.4.0
- _ZN6QDebug6StreamC1E9QtMsgType@Base 0.4.0
- _ZN6QDebug6StreamC2E9QtMsgType@Base 0.4.0
- _ZN6QDebug6StreamD1Ev@Base 0.4.0
- _ZN6QDebug6StreamD2Ev@Base 0.4.0
- _ZN6QDebugC1E9QtMsgType@Base 0.4.0
- _ZN6QDebugC2E9QtMsgType@Base 0.4.0
- _ZN6QDebugD1Ev@Base 0.4.0
- _ZN6QDebugD2Ev@Base 0.4.0
- _ZN6QDebuglsEPKc@Base 0.4.0
- _ZN6QDebuglsERK10QByteArray@Base 0.4.0
- _ZN6QDebuglsERK7QString@Base 0.4.0
- _ZN6QDebuglsEb@Base 0.4.0
- _ZN6QDebuglsEc@Base 0.4.0
- _ZN7QStringC1ERKS_@Base 0.4.0
- _ZN7QStringC2ERKS_@Base 0.4.0
- _ZN7QStringD1Ev@Base 0.4.0
- _ZN7QStringD2Ev@Base 0.4.0
- _ZN7QStringaSERK13QLatin1String@Base 0.4.0
- (optional=templinst)_ZN7QVectorI19QXmlStreamAttributeED1Ev@Base 0.4.0
- (optional=templinst)_ZN7QVectorI19QXmlStreamAttributeED2Ev@Base 0.4.0
- (optional=templinst)_ZNK14QStringBuilderI13QLatin1String7QStringE9convertToIS1_EET_v@Base 0.4.0
- (optional=templinst)_ZNK14QStringBuilderI13QLatin1StringS0_E9convertToI7QStringEET_v@Base 0.4.0
- _ZNK14QStringBuilderI7QStringS0_EcvS0_Ev@Base 0.4.0
- (optional=templinst)_ZNK14QStringBuilderIS_I13QLatin1String7QStringES1_E9convertToIS1_EET_v@Base 0.4.0
- (optional=templinst)_ZNK14QStringBuilderIS_I7QString11QLatin1CharES0_E9convertToIS0_EET_v@Base 0.4.0
- (optional=templinst)_ZNK14QStringBuilderIS_IS_I13QLatin1String7QStringE11QLatin1CharES1_E9convertToIS1_EET_v@Base 0.4.0
- (optional=templinst)_ZNK14QStringBuilderIS_IS_I13QLatin1String7QStringES0_ES1_E9convertToIS1_EET_v@Base 0.4.0
- (optional=templinst)_ZNK14QStringBuilderIS_IS_IS_IS_I13QLatin1String7QStringE11QLatin1CharES1_ES3_ES1_E9convertToIS1_EET_v@Base 0.4.0
- (optional=templinst)_ZNK14QStringBuilderIS_IS_IS_IS_I13QLatin1String7QStringES0_ES1_ES0_ES1_E9convertToIS1_EET_v@Base 0.4.0
- (optional=templinst)_ZNK4QMapI7QString9QDateTimeE15mutableFindNodeEPPN8QMapData4NodeERKS0_@Base 0.4.0
- (optional=templinst)_ZNK4QMapI7QStringS0_E15mutableFindNodeEPPN8QMapData4NodeERKS0_@Base 0.4.0
- (optional=templinst)_ZNK5QHashI4QUrlN6Attica8ProviderEE6valuesEv@Base 0.4.0
- (optional=templinst)_ZNK5QHashI4QUrlN6Attica8ProviderEE8findNodeERKS0_Pj@Base 0.4.0
- (optional=templinst)_ZNK5QHashI7QString5QPairIS0_S0_EE8findNodeERKS0_Pj@Base 0.4.0
- (optional=templinst)_ZNK5QHashI7QStringP13QNetworkReplyE8findNodeERKS0_Pj@Base 0.4.0
- (optional=templinst)_ZNK5QHashIP7QThread15QHashDummyValueE8findNodeERKS1_Pj@Base 0.4.0
- (optional=templinst)_ZNK5QHashIP7QThreadP21QNetworkAccessManagerE8findNodeERKS1_Pj@Base 0.4.0
  (optional=templinst)_ZNK6Attica10ItemPutJobINS_11AchievementEE6resultEv@Base 0.4.0
  _ZNK6Attica11Achievement10visibilityEv@Base 0.4.0
  _ZNK6Attica11Achievement11descriptionEv@Base 0.4.0
@@ -1666,10 +1129,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZNK6Attica18KnowledgeBaseEntry7isValidEv@Base 0.4.0
  _ZNK6Attica18KnowledgeBaseEntry8commentsEv@Base 0.4.0
  _ZNK6Attica18KnowledgeBaseEntry9contentIdEv@Base 0.4.0
- _ZNK6Attica19QtPlatformDependent14enableProviderERK4QUrlb@Base 0.4.0
- _ZNK6Attica19QtPlatformDependent14hasCredentialsERK4QUrl@Base 0.4.0
- _ZNK6Attica19QtPlatformDependent23getDefaultProviderFilesEv@Base 0.4.0
- _ZNK6Attica19QtPlatformDependent9isEnabledERK4QUrl@Base 0.4.0
  _ZNK6Attica21BuildServiceJobOutput6Parser10xmlElementEv@Base 0.4.0
  _ZNK6Attica21BuildServiceJobOutput6outputEv@Base 0.4.0
  _ZNK6Attica21BuildServiceJobOutput7isValidEv@Base 0.4.0
@@ -1717,31 +1176,6 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZNK6Attica6Folder6Parser10xmlElementEv@Base 0.4.0
  _ZNK6Attica6Folder7isValidEv@Base 0.4.0
  _ZNK6Attica6GetJob10metaObjectEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_11AchievementEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_11PrivateDataEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_12BuildServiceEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_12DistributionEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_12DownloadItemEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_12HomePageTypeEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_13RemoteAccountEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_14AccountBalanceEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_14PublisherFieldEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_15BuildServiceJobEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_18KnowledgeBaseEntryEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_21BuildServiceJobOutputEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_5EventEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_5ForumEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_5TopicEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_6FolderEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_6PersonEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_7CommentEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_7ContentEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_7LicenseEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_7MessageEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_7ProjectEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_8ActivityEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_8CategoryEE8metadataEv@Base 0.4.0
- (optional=templinst)_ZNK6Attica6ParserINS_9PublisherEE8metadataEv@Base 0.4.0
  _ZNK6Attica6Person17extendedAttributeERK7QString@Base 0.4.0
  _ZNK6Attica6Person18extendedAttributesEv@Base 0.4.0
  _ZNK6Attica6Person2idEv@Base 0.4.0
@@ -1930,41 +1364,13 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZTIN6Attica14PublisherField6ParserE@Base 0.4.0
  _ZTIN6Attica15BuildServiceJob6ParserE@Base 0.4.0
  _ZTIN6Attica15ProviderManagerE@Base 0.4.0
- _ZTIN6Attica17PlatformDependentE@Base 0.4.0
  _ZTIN6Attica18KnowledgeBaseEntry6ParserE@Base 0.4.0
- _ZTIN6Attica19PlatformDependentV2E@Base 0.4.0
- _ZTIN6Attica19QtPlatformDependentE@Base 0.4.0
  _ZTIN6Attica21BuildServiceJobOutput6ParserE@Base 0.4.0
  _ZTIN6Attica5Event6ParserE@Base 0.4.0
  _ZTIN6Attica5Forum6ParserE@Base 0.4.0
  _ZTIN6Attica5Topic6ParserE@Base 0.4.0
  _ZTIN6Attica6Folder6ParserE@Base 0.4.0
  _ZTIN6Attica6GetJobE@Base 0.4.0
- _ZTIN6Attica6ParserINS_11AchievementEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_11PrivateDataEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_12BuildServiceEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_12DistributionEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_12DownloadItemEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_12HomePageTypeEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_13RemoteAccountEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_14AccountBalanceEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_14PublisherFieldEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_15BuildServiceJobEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_18KnowledgeBaseEntryEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_21BuildServiceJobOutputEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_5EventEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_5ForumEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_5TopicEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_6FolderEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_6PersonEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_7CommentEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_7ContentEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_7LicenseEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_7MessageEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_7ProjectEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_8ActivityEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_8CategoryEEE@Base 0.4.0
- _ZTIN6Attica6ParserINS_9PublisherEEE@Base 0.4.0
  _ZTIN6Attica6Person6ParserE@Base 0.4.0
  _ZTIN6Attica6PutJobE@Base 0.4.0
  _ZTIN6Attica7BaseJobE@Base 0.4.0
@@ -2038,41 +1444,13 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZTSN6Attica14PublisherField6ParserE@Base 0.4.0
  _ZTSN6Attica15BuildServiceJob6ParserE@Base 0.4.0
  _ZTSN6Attica15ProviderManagerE@Base 0.4.0
- _ZTSN6Attica17PlatformDependentE@Base 0.4.0
  _ZTSN6Attica18KnowledgeBaseEntry6ParserE@Base 0.4.0
- _ZTSN6Attica19PlatformDependentV2E@Base 0.4.0
- _ZTSN6Attica19QtPlatformDependentE@Base 0.4.0
  _ZTSN6Attica21BuildServiceJobOutput6ParserE@Base 0.4.0
  _ZTSN6Attica5Event6ParserE@Base 0.4.0
  _ZTSN6Attica5Forum6ParserE@Base 0.4.0
  _ZTSN6Attica5Topic6ParserE@Base 0.4.0
  _ZTSN6Attica6Folder6ParserE@Base 0.4.0
  _ZTSN6Attica6GetJobE@Base 0.4.0
- _ZTSN6Attica6ParserINS_11AchievementEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_11PrivateDataEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_12BuildServiceEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_12DistributionEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_12DownloadItemEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_12HomePageTypeEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_13RemoteAccountEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_14AccountBalanceEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_14PublisherFieldEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_15BuildServiceJobEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_18KnowledgeBaseEntryEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_21BuildServiceJobOutputEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_5EventEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_5ForumEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_5TopicEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_6FolderEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_6PersonEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_7CommentEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_7ContentEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_7LicenseEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_7MessageEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_7ProjectEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_8ActivityEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_8CategoryEEE@Base 0.4.0
- _ZTSN6Attica6ParserINS_9PublisherEEE@Base 0.4.0
  _ZTSN6Attica6Person6ParserE@Base 0.4.0
  _ZTSN6Attica6PutJobE@Base 0.4.0
  _ZTSN6Attica7BaseJobE@Base 0.4.0
@@ -2146,41 +1524,13 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZTVN6Attica14PublisherField6ParserE@Base 0.4.0
  _ZTVN6Attica15BuildServiceJob6ParserE@Base 0.4.0
  _ZTVN6Attica15ProviderManagerE@Base 0.4.0
- _ZTVN6Attica17PlatformDependentE@Base 0.4.0
  _ZTVN6Attica18KnowledgeBaseEntry6ParserE@Base 0.4.0
- _ZTVN6Attica19PlatformDependentV2E@Base 0.4.0
- _ZTVN6Attica19QtPlatformDependentE@Base 0.4.0
  _ZTVN6Attica21BuildServiceJobOutput6ParserE@Base 0.4.0
  _ZTVN6Attica5Event6ParserE@Base 0.4.0
  _ZTVN6Attica5Forum6ParserE@Base 0.4.0
  _ZTVN6Attica5Topic6ParserE@Base 0.4.0
  _ZTVN6Attica6Folder6ParserE@Base 0.4.0
  _ZTVN6Attica6GetJobE@Base 0.4.0
- _ZTVN6Attica6ParserINS_11AchievementEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_11PrivateDataEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_12BuildServiceEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_12DistributionEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_12DownloadItemEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_12HomePageTypeEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_13RemoteAccountEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_14AccountBalanceEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_14PublisherFieldEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_15BuildServiceJobEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_18KnowledgeBaseEntryEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_21BuildServiceJobOutputEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_5EventEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_5ForumEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_5TopicEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_6FolderEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_6PersonEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_7CommentEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_7ContentEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_7LicenseEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_7MessageEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_7ProjectEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_8ActivityEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_8CategoryEEE@Base 0.4.0
- _ZTVN6Attica6ParserINS_9PublisherEEE@Base 0.4.0
  _ZTVN6Attica6Person6ParserE@Base 0.4.0
  _ZTVN6Attica6PutJobE@Base 0.4.0
  _ZTVN6Attica7BaseJobE@Base 0.4.0
@@ -2232,4 +1582,3 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZTVN6Attica8Category6ParserE@Base 0.4.0
  _ZTVN6Attica9DeleteJobE@Base 0.4.0
  _ZTVN6Attica9Publisher6ParserE@Base 0.4.0
- (optional=templinst)_ZlsI7QStringS0_E6QDebugS1_RK4QMapIT_T0_E@Base 0.4.0
