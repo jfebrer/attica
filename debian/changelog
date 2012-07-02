@@ -1,5 +1,6 @@
-attica (0.4.0-0r1) UNRELEASED; urgency=low
+attica (0.4.0-1) experimental; urgency=low
 
+  * Team upload.
   * New upstream release.
 
   [ Ana Beatriz Guerrero Lopez ]
@@ -25,7 +26,7 @@ attica (0.4.0-0r1) UNRELEASED; urgency=low
   [ Daniel Schaal ]
   * Switch to multiarch. (Closes: #636318)
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 10 May 2012 23:38:23 +0200
+ -- Pino Toscano <pino@debian.org>  Mon, 02 Jul 2012 23:57:27 +0200
 
 attica (0.2.0-1) unstable; urgency=low
 
