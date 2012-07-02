@@ -22,6 +22,9 @@ attica (0.4.0-0r1) UNRELEASED; urgency=low
   * Update copyright.
   * libattica-dev: depend on libqt4-dev.
 
+  [ Daniel Schaal ]
+  * Switch to multiarch. (Closes: #636318)
+
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 10 May 2012 23:38:23 +0200
 
 attica (0.2.0-1) unstable; urgency=low
