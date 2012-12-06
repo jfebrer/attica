@@ -340,6 +340,8 @@ libattica.so.0.4 libattica0.4 #MINVER#
  _ZN6Attica19DownloadDescription4sizeEv@Base 0.4.0
  _ZN6Attica19DownloadDescription4typeEv@Base 0.4.0
  _ZN6Attica19DownloadDescription5setIdEi@Base 0.4.0
+ (optional=gccinternal)_ZN6Attica19DownloadDescription7PrivateD1Ev@Base 0.4.0
+ (optional=gccinternal)_ZN6Attica19DownloadDescription7PrivateD2Ev@Base 0.4.0
  _ZN6Attica19DownloadDescription7setLinkERK7QString@Base 0.4.0
  _ZN6Attica19DownloadDescription7setNameERK7QString@Base 0.4.0
  _ZN6Attica19DownloadDescription7setSizeEj@Base 0.4.0
