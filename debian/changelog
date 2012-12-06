@@ -2,6 +2,8 @@ attica (0.4.1-0r1) UNRELEASED; urgency=low
 
   [ Pino Toscano ]
   * New upstream release.
+  * Disable the unit tests, which do not link when compiling with hidden
+    visibility.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 06 Dec 2012 18:39:13 +0100
 

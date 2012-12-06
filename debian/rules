@@ -6,5 +6,8 @@ export DEB_CXXFLAGS_MAINT_APPEND := -fvisibility=hidden -fvisibility-inlines-hid
 %:
 	dh $@ --parallel --with pkgkde_symbolshelper
 
+override_dh_auto_configure:
+	dh_auto_configure -- -DATTICA_ENABLE_TESTS=OFF
+
 override_dh_strip:
 	dh_strip --dbg-package=libattica-dbg
