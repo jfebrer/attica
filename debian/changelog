@@ -1,6 +1,6 @@
-attica (0.4.1-0r1) UNRELEASED; urgency=low
+attica (0.4.1-1) experimental; urgency=low
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Disable the unit tests, which do not link when compiling with hidden
     visibility.
@@ -9,7 +9,7 @@ attica (0.4.1-0r1) UNRELEASED; urgency=low
   * Change OCS API version from 1.4 to 1.6 in descriptions.
   * Update symbols file with optional symbols of 0.4.0.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 06 Dec 2012 18:39:13 +0100
+ -- Pino Toscano <pino@debian.org>  Thu, 06 Dec 2012 19:12:59 +0100
 
 attica (0.4.0-1) experimental; urgency=low
 
