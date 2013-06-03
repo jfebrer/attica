@@ -2,6 +2,7 @@ attica (0.4.1-2) UNRELEASED; urgency=low
 
   [ Pino Toscano ]
   * Rename docs to libattica0.4.docs, so it applies to the shared library.
+  * Bump Standards-Version to 3.9.4, no changes required.
 
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 06 May 2013 18:30:39 +0200
 
