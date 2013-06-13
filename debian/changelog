@@ -1,10 +1,10 @@
-attica (0.4.1-2) UNRELEASED; urgency=low
+attica (0.4.1-2) unstable; urgency=low
 
-  [ Pino Toscano ]
+  * Upload to unstable.
   * Rename docs to libattica0.4.docs, so it applies to the shared library.
   * Bump Standards-Version to 3.9.4, no changes required.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Mon, 06 May 2013 18:30:39 +0200
+ -- Pino Toscano <pino@debian.org>  Thu, 13 Jun 2013 21:33:09 +0200
 
 attica (0.4.1-1) experimental; urgency=low
 
