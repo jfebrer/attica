@@ -2,6 +2,10 @@ attica (0.4.2-0r0) UNRELEASED; urgency=low
 
   * New upstream release.
 
+  [ Josep Febrer Salord ]
+
+  * Refresh patch switch-to-multiarch.patch.
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 15 Jun 2013 17:46:06 +0200
 
 attica (0.4.1-2) unstable; urgency=low
